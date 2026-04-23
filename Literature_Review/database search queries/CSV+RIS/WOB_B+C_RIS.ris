@@ -1,0 +1,1514 @@
+﻿TY  - JOUR
+AU  - Zhao, E
+AU  - May, E
+AU  - Walker, PD
+AU  - Surawski, NC
+TI  - Emissions life cycle assessment of charging infrastructures for electric buses
+T2  - SUSTAINABLE ENERGY TECHNOLOGIES AND ASSESSMENTS
+LA  - English
+KW  - Life Cycle Assessment
+KW  - Battery Electric Vehicles
+KW  - Greenhouse Gas Emissions
+KW  - Electric Buses
+KW  - Charging Infrastructure
+KW  - Environmental Load
+KW  - GREENHOUSE-GAS EMISSIONS
+KW  - VEHICLES
+KW  - HYBRID
+KW  - DIESEL
+AB  - This paper evaluates and calculates the magnitude of greenhouse gases produced from the implementation of electric bus charging stations into existing bus depots concurrent with the transitioning of the commuter bus fleets into electrified powertrains. To achieve this, a comprehensive and in-depth emissions life cycle assessment is conducted and utilises the Australian based fleets as a case study, focusing particularly on Sydney city and Inner West regions. To define the scope and system boundary for this type of study, the authors have chosen bus routes that take into account city, suburban, and highway driving. The study conducts a life cycle assessment of electric bus charging stations that incorporates the greenhouse gas emissions produced from the production, transportation, installation, operations, and decommissioning phases. Additionally, three alternate scenarios are explored: time variance, high shares of renewables, and net-zero emissions by 2050. Results show that contributions from infrastructure development and the transition to electrified buses are substantially outweighed by operation emissions. The operations phase is heavily dependent on the electricity grid-mixes carbon intensity and contributes the most greenhouse gas emissions (98.8%), followed by production (0.69%), recycling and disposal (0.48%), installation (0.01%), and transportation (0.01%). The current Australian electricity grid-mix produces approximately 1.2 similar to 1.4 times more greenhouse emissions than when combusting diesel fuel. Thus, net-zero emissions will not be achieved without substantial grid-mix decarbonisation. This study also finds that regional-specific parameters heavily influences the final life cycle emissions calculations. For the case-specific scenario, it is found that transitioning the existing transport bus fleet into electric powertrains has the potential to significantly reduce the impact on climate change compared to diesel buses. However, it can only be made possible if the electricity used to charge the electric buses is generated from low carbon-intensive sources, such as renewable energy.
+AD  - Univ Technol Sydney, Sch Mech & Mechatron Engn, Sydney, AustraliaAD  - Univ Technol Sydney, Sch Civil & Environm Engn, Ultimo, AustraliaC3  - University of Technology SydneyC3  - University of Technology SydneyFU  - Australian Research Council [DE0170100134]
+FX  - This project was supported by the Australian Research Council under Discovery Early Career Researcher Award (DE0170100134).
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2213-1388
+SN  - 2213-1396
+J9  - SUSTAIN ENERGY TECHN
+JI  - Sustain. Energy Technol. Assess.
+DA  - DEC
+PY  - 2021
+VL  - 48
+C7  - 101605
+DO  - 10.1016/j.seta.2021.101605
+C6  - SEP 2021
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000711078300003
+N1  - Times Cited in Web of Science Core Collection:  32
+Total Times Cited:  35
+Cited Reference Count:  52
+ER  -
+
+TY  - JOUR
+AU  - Ji, JH
+AU  - Wang, LH
+AU  - Bie, YM
+AU  - Li, SW
+TI  - Economic and environmental analysis for electric bus system with dynamic wireless charging
+T2  - TRANSPORTATION RESEARCH PART D-TRANSPORT AND ENVIRONMENT
+LA  - English
+KW  - Electric buses
+KW  - Dynamic wireless charging
+KW  - Operating costs
+KW  - Greenhouse gas emissions
+KW  - Life cycle
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - POWER TRANSFER SYSTEM
+KW  - PLUG-IN
+KW  - INFRASTRUCTURE
+KW  - ENERGY
+KW  - EMISSIONS
+KW  - DIESEL
+KW  - COST
+KW  - TECHNOLOGY
+KW  - DEPLOYMENT
+AB  - Dynamic wireless charging (DWC) enables real-time energy replenishment for electric buses (EBs) while in motion, substantially reducing onboard battery capacity requirements, vehicle curb mass, and associated procurement and electricity expenditures. However, charging infrastructure entails significant upfront capital investment, and economic viability and decarbonization potential remain insufficiently quantified, which hinders its widespread adoption. To analyze the advantages and challenges of DWC in EB systems, this paper constructs a life cycle assessment framework. First, the system boundary is defined, and the life cycle duration is determined. Then, the operating costs and greenhouse gas emissions are calculated to analyze the economic and environmental impacts of the system. A case study is carried out on an actual route, and results show that DWC reduces emissions compared with plug-in charging. Economically, DWC lowers operating costs under the flat-rate tariff policy, but increases them under the time-of-use pricing policy.
+AD  - Jilin Univ, Sch Transportat, Changchun 130022, Peoples R ChinaAD  - Jilin Univ, Natl Key Lab Automot Chassis Integrat & B, Changchun 130022, Peoples R ChinaC3  - Jilin UniversityC3  - Jilin UniversityFU  - National Natural Science Foundation of China [72471102]; Key Projects of National Natural Science Foundation of China [52220105001]
+FX  - This work was supported by the National Natural Science Foundation of China [grant number 72471102] , and the Key Projects of National Natural Science Foundation of China [grant numbers 52220105001] .
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 1361-9209
+SN  - 1879-2340
+J9  - TRANSPORT RES D-TR E
+JI  - Transport. Res. Part D-Transport. Environ.
+DA  - FEB
+PY  - 2026
+VL  - 151
+C7  - 105159
+DO  - 10.1016/j.trd.2025.105159
+C6  - DEC 2025
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001641463100001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  86
+ER  -
+
+TY  - JOUR
+AU  - Al-Ogaili, AS
+AU  - Al-Shetwi, AQ
+AU  - Babu, TS
+AU  - Hoon, Y
+AU  - Abdullah, MA
+AU  - Alhasan, A
+AU  - Al-Sharaa, A
+TI  - Electric Buses in Malaysia: Policies, Innovations, Technologies and Life Cycle Evaluations
+T2  - SUSTAINABILITY
+LA  - English
+KW  - electric bus technologies
+KW  - greenhouse gas emissions
+KW  - energy demand
+KW  - life cycle assessments
+KW  - electric bus deployments in Malaysia
+KW  - OF-THE-ART
+KW  - VEHICLE
+KW  - COST
+KW  - HYBRID
+KW  - OWNERSHIP
+KW  - IMPACTS
+KW  - WELL
+AB  - A large-scale adoption of electric buses (EBs) is a promising solution to mitigate greenhouse gas emissions from the transportation sector. In the upcoming decades, the development of EB technologies will be initiated worldwide, including in Malaysia. Government policies to support EB deployments have been widely established. Therefore, Malaysia's National Automotive Policy has stated a roadmap of policies to promote a national groundwork accordingly. Following the elaboration of Malaysia's goals for EBs deployments by 2014 and 2020, there are crucial associated topics for EBs implementation, including EB innovations and technologies adoption. This study presents a deep discussion about the groundwork of EB innovations that have been initiated in Malaysia to meet the roadmap targets. This paper also comprehensively reviews the technical specifications of EB innovation technologies, including Electric Bus Innovation Malaysia, Malaysia Automotive Institute, and Go Auto prototypes. In addition, this study outlines the EB technologies that have been launched in three states in Malaysia, known as Putrajaya, Melaka, and Sarawak. Furthermore, a generic framework for life cycle assessments of EB is presented, focusing on the economic and environmental impacts. This framework provides the necessary groundwork for further studies on charging infrastructure requirements.
+AD  - Univ Tenaga Nas, Inst Power Engn IPE, Kajang 43000, MalaysiaAD  - Fahad Bin Sultan Univ, Elect Engn Dept, Tabuk 71454, Saudi ArabiaAD  - Fahad Bin Sultan Univ, Dept Renewable Energy Engn, Tabuk 71454, Saudi ArabiaAD  - Chaitanya Bharathi Inst Technol, Dept Elect & Elect Engn, Hyderabad 500075, IndiaAD  - Nisantasi Univ, Dept Elect & Elect Engn, TR-34398 Istanbul, TurkeyAD  - Taylors Univ, Fac Innovat & Technol, Sch Engn, Subang Jaya 47500, MalaysiaAD  - Univ Hafr Al Batin, Community Coll, Dept Elect & Elect Engn, Hafar al Batin 31991, Saudi ArabiaAD  - Univ Tun Hussein Onn Malaysia, Fac Elect & Elect Engn, Parit Raja 86400, MalaysiaAD  - Univ Malaya, Fac Built Environm, Dept Architecture, Kuala Lumpur 50603, MalaysiaC3  - Universiti Tenaga NasionalC3  - Fahad Bin Sultan UniversityC3  - Fahad Bin Sultan UniversityC3  - Chaitanya Bharathi Institute of TechnologyC3  - Istanbul Nisantasi UniversityC3  - Taylor's UniversityC3  - Hafr Albatin UniversityC3  - University of Tun Hussein Onn MalaysiaC3  - Universiti MalayaPU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 2071-1050
+J9  - SUSTAINABILITY-BASEL
+JI  - Sustainability
+DA  - NOV
+PY  - 2021
+VL  - 13
+IS  - 21
+C7  - 11577
+DO  - 10.3390/su132111577
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000726896500001
+N1  - Times Cited in Web of Science Core Collection:  11
+Total Times Cited:  12
+Cited Reference Count:  50
+ER  -
+
+TY  - JOUR
+AU  - Yan, WJ
+AU  - Yeow, ECH
+AU  - Wang, ZM
+AU  - Foo, CK
+AU  - Tan, DZL
+AU  - Chiam, SY
+AU  - Teo, Z
+AU  - Ng, JKH
+AU  - Meng, FS
+AU  - Yeo, ZQ
+AU  - Low, JSC
+TI  - Assessing the environmental benefits of passenger cars electrification in metropolises: A case study of Singapore
+T2  - INTERNATIONAL JOURNAL OF SUSTAINABLE TRANSPORTATION
+LA  - English
+KW  - Electric vehicles
+KW  - environmental impact
+KW  - greenhouse gas emissions
+KW  - life cycle assessment
+KW  - sustainable transportation
+KW  - transportation decarbonization
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - GREENHOUSE-GAS EMISSIONS
+KW  - ELECTRIC VEHICLES
+KW  - IMPACT
+KW  - ASSESSMENTS
+KW  - HYBRID
+KW  - CARBON
+AB  - Land-based transportation is a significant contributor to global greenhouse gas (GHG) emissions, with internal combustion engine vehicles being the predominant mode of transport in this sector. As the world population grows and urbanization accelerates, transport demand in metropolitan areas is projected to double by 2050, underscoring the critical need for sustainable transportation strategies, forecasting, and planning within an urban context. One challenge in this endeavor is the insufficient attention given to the distribution of vehicle grades within the overall car population during GHG impact assessment, despite the recognized importance of car grade by researchers and policymakers. In this study, we incorporate both engine type and vehicle grade distribution, derived from data on over 30,000 passenger cars registered with the Land Transport Authority of Singapore between 2018 and 2022, into our life cycle assessment analysis. This approach ensures that our scenario-based studies on prediction and planning are more comprehensive than those that consider only the most popular models. Furthermore, while Singapore benefits from a relatively clean electricity supply, the current limitations in charging infrastructure negatively affect the GHG impact of electric vehicles. The insights from this research will inform the development of transportation policies for metropolises like Singapore, contributing to the advancement of a more sustainable transportation system.
+AD  - ASTAR, Singapore Inst Mfg Technol SIMTech, 2 Fusionopolis Way,Innovis 08-04, Singapore 138634, SingaporeAD  - ASTAR, Adv Remfg & Technol Ctr ARTC, Singapore, SingaporeAD  - Land Transport Author LTA, Natl Elect Vehicle Ctr NEVC, Singapore, SingaporeAD  - ASTAR, Inst Mat Res & Engn IMRE, Singapore, SingaporeAD  - ASTAR, Urban & Green Technol Horizontal Technol Coordinat, Singapore, SingaporeC3  - Agency for Science Technology & Research (A*STAR)C3  - A*STAR - Singapore Institute of Manufacturing Technology (SIMTech)C3  - Agency for Science Technology & Research (A*STAR)C3  - Agency for Science Technology & Research (A*STAR)C3  - A*STAR - Institute of Materials Research & Engineering (IMRE)C3  - Agency for Science Technology & Research (A*STAR)FU  - ASTAR under Urban & Green Technology Horizontal Technology Coordinating Office (UGT HTCO) Seed Fund [C211718002]; AME Individual Research Grant (IRG) Thematic Grant Call on Cleaner Manufacturing [A20E7c0110]
+FX  - This research is supported by ASTAR under Urban & Green Technology Horizontal Technology Coordinating Office (UGT HTCO) Seed Fund (Grant No.: C211718002) and AME Individual Research Grant (IRG) Thematic Grant Call on Cleaner Manufacturing (Grant No.: A20E7c0110).
+PU  - TAYLOR & FRANCIS INC
+PI  - PHILADELPHIA
+PA  - 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN  - 1556-8318
+SN  - 1556-8334
+J9  - INT J SUSTAIN TRANSP
+JI  - Int. J. Sustain. Transp.
+DA  - AUG 3
+PY  - 2025
+VL  - 19
+IS  - 8
+SP  - 749
+EP  - 761
+DO  - 10.1080/15568318.2024.2421840
+C6  - OCT 2024
+WE  - Social Science Citation Index (SSCI)AN  - WOS:001349274500001
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  38
+ER  -
+
+TY  - JOUR
+AU  - Gauto, MA
+AU  - Roitman, T
+AU  - Lopes, E
+AU  - Capaz, RS
+AU  - Pereira, GAG
+AU  - Nogueira, GP
+TI  - The greenhouse gases emissions and environmental impact profiles for bio-electromobility alternatives in Brazilian urban buses
+T2  - ENERGY FOR SUSTAINABLE DEVELOPMENT
+LA  - English
+KW  - Bio-electromobility
+KW  - Bio-mobility
+KW  - BioCNG
+KW  - HVO
+KW  - GHG Emissions
+KW  - Environmental impacts
+KW  - TRANSPORTATION
+KW  - ELECTRICITY
+KW  - CONGESTION
+AB  - The global transport sector remains a major contributor to greenhouse gas (GHG) emissions, urging the need for low-carbon pathways that go beyond full fleet electrification. In countries like Brazil, where biofuel production is mature and the electricity matrix is relatively clean, bio-electromobility can offer an effective alternative for decarbonizing urban public transport. This study assesses the environmental performance of seven scenarios composed by different bus types and energy use - conventional diesel, compressed natural gas (CNG), biomethane (bioCNG), hydrotreated vegetable oil (HVO) from soybean oil and from tallow, in internal combustion engine buses (ICEB), hybrid buses (HEB) and battery electric buses (BEB) configurations - through a cradle-to-grave Life Cycle Assessment (LCA). The analysis covers midpoint Global Warming Potential and endpoint damage categories: Ecosystem Quality, Human Health, and Natural Resources. Results show that buses powered by residue-based HVO or bioCNG in both internal combustion and hybrid configurations outperform BEBs in several environmental impact categories, challenging the narrative that "zero-emission" buses are always the optimal solution when upstream and mid-life emissions are considered. Limitations include data assumptions, partial regionalization, and infrastructure constraints that may affect large-scale deployment. The findings emphasize the need for diversified public policies that integrate biofuels and electrification, leveraging Brazil's biomass potential while expanding charging infrastructure sustainably. This study contributes to closing knowledge gaps in bio-electromobility's role and provides decision-makers with robust evidence to guide investments and regulatory frameworks toward a truly low-carbon urban transport system.
+AD  - UNESP, Interinst Grad Program Bioenergy, USP, UNICAMP, 330 Cora Coralina St,Cidade Univ, BR-13083896 Campinas, SP, BrazilAD  - Univ Estadual Campinas, Inst Biol, Dept Genet Evolut Microbiol & Immunol, Lab Genom & BioEnergy, Campinas, SP, BrazilAD  - Univ Fed Itajuba, Inst Recursos Nat, Nat Resources Inst, Ave BPS 1303, BR-37500903 Itajuba, MG, BrazilAD  - Univ Estadual Campinas, Fac Mech Engn, BR-13083860 Campinas, SP, BrazilC3  - Universidade de Sao PauloC3  - Universidade Estadual de CampinasC3  - Universidade Estadual PaulistaC3  - Universidade de Sao PauloC3  - Universidade Estadual de CampinasC3  - Universidade Federal de ItajubaC3  - Universidade Estadual de CampinasPU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 0973-0826
+SN  - 2352-4669
+J9  - ENERGY SUSTAIN DEV
+JI  - Energy Sustain Dev.
+DA  - JAN
+PY  - 2026
+VL  - 90
+C7  - 101887
+DO  - 10.1016/j.esd.2025.101887
+C6  - NOV 2025
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001626129500001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  57
+ER  -
+
+TY  - JOUR
+AU  - Panta, U
+AU  - Gairola, P
+AU  - Nezamuddin, N
+TI  - Modelling benefit-to-cost ratio for initial phase electrification using battery electric bus
+T2  - TRANSPORT POLICY
+LA  - English
+KW  - Battery electric bus
+KW  - Initial phase transition
+KW  - Benefit-to-cost ratio
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - CHARGING INFRASTRUCTURE
+KW  - OPTIMIZATION
+KW  - CITY
+KW  - EMISSIONS
+KW  - NETWORK
+KW  - DESIGN
+KW  - ENERGY
+AB  - In light of growing global concern regarding environmental pollution, greenhouse gas emission and fastdepleting petroleum resources, electric buses are being considered as an integral part of future urban transportation system. However, substantial financial resources required for complete transition from conventional fuel-driven buses to electric buses means that this process will take place progressively. We have developed an optimization framework to assist in decision-making during the initial phase of transitioning to electric buses while working within financial constraints. Our approach focuses on a route-specific performance metric, the benefit-to-cost (B/C) ratio, which maximizes fuel savings and emissions reduction when transitioning to electric buses, all while respecting the limitations of available resources. The model identifies the set of bus routes to be electrified, along with the locations of electrified terminals. The proposed model was tested on the extensive public bus network of Delhi, India for two scenarios: compressed natural gas (CNG)-to-electric and diesel-toelectric bus transitions. Additionally, sensitivity analysis was conducted to evaluate how the available electrification budget and charging power affect the benefit-to-cost ratio and decisions related to route and terminal electrification. To fully realize the environmental benefits of electric buses, it is essential for the bus electrification policy to align with a shift from carbon-intensive energy sources to cleaner alternatives. Our study for Delhi suggests that a minimum of 30% of the electricity should come from clean energy sources to maximize the environmental benefits of bus electrification. This framework can thus serve as a useful tool to public transit agencies when planning the initial phases of the bus electrification.
+AD  - Indian Inst Technol Delhi, Dept Civil Engn, New Delhi 110016, IndiaC3  - Indian Institute of Technology System (IIT System)C3  - Indian Institute of Technology (IIT) - DelhiPU  - ELSEVIER SCI LTD
+PI  - London
+PA  - 125 London Wall, London, ENGLAND
+SN  - 0967-070X
+SN  - 1879-310X
+J9  - TRANSPORT POLICY
+JI  - Transp. Policy
+DA  - JAN
+PY  - 2024
+VL  - 145
+SP  - 137
+EP  - 149
+DO  - 10.1016/j.tranpol.2023.10.016
+C6  - NOV 2023
+WE  - Social Science Citation Index (SSCI)AN  - WOS:001109728000001
+N1  - Times Cited in Web of Science Core Collection:  19
+Total Times Cited:  19
+Cited Reference Count:  55
+ER  -
+
+TY  - JOUR
+AU  - Borne, I
+AU  - de Souza, SAS
+AU  - Silva, ETC
+AU  - Soares, GB
+AU  - Ledesma, JJG
+AU  - Ando, OHA Jr
+TI  - Sustainable Mobility: Analysis of the Implementation of Electric Bus in University Transportation
+T2  - ENERGIES
+LA  - English
+KW  - sustainable mobility
+KW  - university transportation
+KW  - electric bus
+KW  - energy efficiency
+KW  - sustainability
+KW  - e-mobility economics
+KW  - CYCLE ASSESSMENT
+KW  - MANAGEMENT
+KW  - METHODOLOGY
+KW  - DIESEL
+AB  - Sustainable mobility in university environments presents both a challenge and an opportunity to reduce environmental impact and promote energy efficiency. This study assesses the feasibility of implementing electric buses in the internal transportation system of the Federal University of Para & iacute;ba (UFPB), considering environmental, economic, and operational aspects. The analysis demonstrates that transitioning to this model can lead to a significant reduction in greenhouse gas (GHG) emissions, noise pollution mitigation, and optimization of operational costs throughout the vehicle's life cycle. The study examines technical, structural, and financial factors, emphasizing the necessary infrastructure, academic community acceptance, and the economic viability of the project, as well as the strategic advantage of integrating the electric fleet with photovoltaic energy generation. The key highlights of this research include: (i) Sustainability and energy efficiency, emphasizing a reduction of up to 52.52% in CO2 emissions when vehicles are powered by photovoltaic energy in an LCA context, alongside improvements in air quality and noise pollution mitigation. (ii) Economic feasibility analysis, comparing operational and maintenance costs between electric and conventional diesel buses, evaluating the financial viability and potential return on investment. (iii) Infrastructure and implementation challenges, addressing the need for charging stations, adaptation of UFPB's infrastructure, and financing models, including government subsidies and strategic partnerships. (iv) Impact on the academic community, analyzing student and staff perceptions and acceptance of fleet electrification and the promotion of sustainable practices. (v) Future projections and replicability, exploring trends in the sustainable transportation sector, as well as the potential expansion of the electric fleet and its integration with energy storage systems. The results indicate that adopting electric buses at UFPB can position the institution as a benchmark in sustainable mobility, serving as a replicable model for other universities and contributing to carbon emission reduction and modernization of university transportation.
+AD  - Fed Univ Paraiba UFPB, Grad Program Civil & Environm Engn PPGECAM, Technol Ctr CT, BR-58051900 Joao Pessoa, PB, BrazilAD  - Western Parana State Univ UNIOESTE, Grad Program Energy Engn Agr PPGEA, BR-85819110 Cascavel, PR, BrazilAD  - Fed Univ Latin Amer Integrat UNILA, Interdisciplinary Grad Program Energy & Sustainabi, BR-85867000 Foz Do Iguacu, PR, BrazilAD  - Fed Rural Univ Pernambuco UFRPE, Acad Unit Cabo Santo Agostinho UACSA, Res Grp Energy & Energy Sustainabil GPEnSE, BR-54518430 Cabo De Santo Agostinho, PE, BrazilAD  - Fed Univ Paraiba UFPB, Ctr Alternat & Renewable Res CEAR, Smart Grid Lab LabREI, BR-58051900 Joao Pessoa, PB, BrazilC3  - Universidade Estadual do Oeste do ParanaC3  - Universidade Federal da Integracao Latino-AmericanaC3  - Universidade Federal Rural de Pernambuco (UFRPE)FU  - FACEPE agency (Fundacao de Amparo a Pesquisa de Pernambuco) [APQ-0616-9.25/21, APQ-0642-9.25/22]; Brazilian National Council for Scientific and Technological Development (CNPq) [407531/2018-1, 303293/2020-9, 405385/2022-6, 405350/2022-8, 40666/2022-3]
+FX  - O.H.A.J. was funded by FACEPE agency (Fundacao de Amparo a Pesquisa de Pernambuco) through the project with references APQ-0616-9.25/21 and APQ-0642-9.25/22. O.H.A.J. was funded by the Brazilian National Council for Scientific and Technological Development (CNPq), grant numbers 407531/2018-1, 303293/2020-9, 405385/2022-6, 405350/2022-8, and 40666/2022-3.
+PU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 1996-1073
+J9  - ENERGIES
+JI  - Energies
+DA  - APR 25
+PY  - 2025
+VL  - 18
+IS  - 9
+C7  - 2195
+DO  - 10.3390/en18092195
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001486234000001
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  8
+Cited Reference Count:  86
+ER  -
+
+TY  - JOUR
+AU  - Liu, FJ
+AU  - Shafique, M
+AU  - Luo, XW
+TI  - Unveiling the determinants of battery electric vehicle performance: A systematic review and meta-analysis
+T2  - COMMUNICATIONS IN TRANSPORTATION RESEARCH
+LA  - English
+KW  - BEVs
+KW  - Battery electric buses (BEBs)
+KW  - BEV performance
+KW  - Sustainability
+KW  - Technological advancements
+KW  - User behavior
+KW  - Regulatory impact
+KW  - GREENHOUSE-GAS EMISSIONS
+KW  - LITHIUM-ION BATTERIES
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - REMAINING DRIVING RANGE
+KW  - ENERGY-STORAGE SYSTEM
+KW  - REAL-WORLD
+KW  - CHARGING INFRASTRUCTURE
+KW  - ENVIRONMENTAL-IMPACT
+KW  - THERMAL MANAGEMENT
+KW  - EXTENDED-RANGE
+AB  - The transition toward battery electric vehicles (BEVs) is a critical element in the global shift toward sustainable transportation. This meta-analysis delves into the multifaceted factors influencing BEV performance, including environmental, technological, behavioral, and political-economic determinants. The purpose of this review is to systematically organize and assess how these factors impact BEV efficiency and sustainability across various operational scenarios, such as driving, charging, and decommissioning. By examining a wide range of literature, this study constructs a comprehensive framework that categorizes the primary components and performance metrics, revealing complex relationships and potential causal connections. The findings highlight that although technological advancements and regulatory frameworks are the predominant drivers of BEV performance, environmental conditions and user behaviors also play significant roles. The key emerging topics identified suggest further research avenues, particularly in optimizing battery technology and expanding policy support. Additionally, the analysis provides new and systematic insights compared with previous reviews, offering a clearer understanding of the determinants, their impacts, and the interactions between them. These insights are crucial for developing a transparent evaluation system for future research and policy formulation. This comprehensive synthesis not only aids in understanding the current landscape but also in directing future scholarly and practical endeavors in electric vehicle research.
+AD  - City Univ Hong Kong, Dept Architecture & Civil Engn, Hong Kong 999077, Peoples R ChinaAD  - Brunel Univ, Dept Civil & Environm Engn, London UB8 3PH, Middlesex, EnglandC3  - City University of Hong KongC3  - University of LondonC3  - University College LondonC3  - Brunel UniversityPU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2097-5023
+SN  - 2772-4247
+J9  - COMMUN TRANSP RES
+JI  - Commun. Transp. Res.
+DA  - DEC
+PY  - 2024
+VL  - 4
+C7  - 100148
+DO  - 10.1016/j.commtr.2024.100148
+C6  - NOV 2024
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001366627400001
+N1  - Times Cited in Web of Science Core Collection:  17
+Total Times Cited:  18
+Cited Reference Count:  285
+ER  -
+
+TY  - JOUR
+AU  - Dahlgren, S
+AU  - Ammenberg, J
+TI  - Sustainability Assessment of Public Transport, Part II-Applying a Multi-Criteria Assessment Method to Compare Different Bus Technologies
+T2  - SUSTAINABILITY
+LA  - English
+KW  - bus technologies
+KW  - multi-criteria assessment
+KW  - MCA
+KW  - MCDA
+KW  - public transport
+KW  - sustainability assessment
+KW  - sustainable or green public procurement
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - LIQUEFIED NATURAL-GAS
+KW  - ELECTRIC VEHICLES
+KW  - BIOGAS PRODUCTION
+KW  - ENVIRONMENTAL-IMPACT
+KW  - ANAEROBIC-DIGESTION
+KW  - FUEL-CELL
+KW  - CHARGING INFRASTRUCTURE
+KW  - GREENHOUSE-GAS
+KW  - NUCLEAR-POWER
+AB  - Many Swedish regional transport authorities want bus fleets driven on renewable fuels. However, it may be difficult to know what technology, or combination of technologies, to choose. There is a need for improved knowledge and supportive methods for sustainability assessments that can support public procurement processes. In the companion article (Part I), a multi-criteria assessment (MCA) method for assessments of public bus technologies' sustainability was established, consisting of four key areas and 12 indicators. In this article, the purpose is to apply the method established in part I on different bus technologies by looking at a general Swedish case and assessing buses driven on diesel, Hydrotreated Vegetable Oil (HVO), Fatty Acid Methyl Ester (FAME), ethanol, natural gas, biomethane and electricity. Each technology is assessed on a scale from Very Poor to Very Good according to the indicators: technical maturity, daily operational availability, total cost of ownership, need for investments in infrastructure, cost stability, non-renewable primary energy efficiency, greenhouse gas emission savings, air pollution, noise, local/regional impact on land and aquatic environments, energy security and sociotechnical systems services. The results show the strengths and weaknesses of each technology, which are later discussed. We also critically reflect upon the usefulness and accuracy of the MCA method.
+AD  - Linkoping Univ, Dept Management & Engn, Environm Technol & Management & Biogas Res Ctr BR, SE-58183 Linkoping, SwedenC3  - Linkoping UniversityFU  - Energy Agency of Sweden; Swedish University of Agriculture; Linkoping University
+FX  - This research was performed within the Biogas Research Center (BRC), which is funded by the Energy Agency of Sweden, Linkoping University and the Swedish University of Agriculture, and more than 20 private and public partners.
+PU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 2071-1050
+J9  - SUSTAINABILITY-BASEL
+JI  - Sustainability
+DA  - FEB
+PY  - 2021
+VL  - 13
+IS  - 3
+C7  - 1273
+DO  - 10.3390/su13031273
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000615680300001
+N1  - Times Cited in Web of Science Core Collection:  31
+Total Times Cited:  35
+Cited Reference Count:  190
+ER  -
+
+TY  - JOUR
+AU  - Nguyen, VC
+AU  - Wang, CT
+AU  - Hsieh, YJ
+TI  - Electrification of Highway Transportation with Solar and Wind Energy
+T2  - SUSTAINABILITY
+LA  - English
+KW  - global warming
+KW  - greenhouse gas (GHG)
+KW  - renewable energy
+KW  - electric vehicles (EVs)
+KW  - VEHICLE CHARGING STATIONS
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - ELECTRIC VEHICLES
+KW  - OPTIMAL-DEPLOYMENT
+KW  - STORAGE SYSTEM
+KW  - UNITED-STATES
+KW  - OPTIMIZATION
+KW  - INFRASTRUCTURE
+KW  - LOCATION
+KW  - MODEL
+AB  - Global warming has triggered waves of public awareness to surface very strongly worldwide, urging to eliminate all greenhouse gas emissions in a timely fashion. Among all feasible approaches to achieving this goal, using renewables to replace fossil fuels and electric vehicles (EVs) to replace conventional internal combustion engine vehicles is arguably a top-priority task. However, there is a severe lack of practical approaches to measuring a proper renewable mix for powering EVs in a large highway network while also considering renewables' seasonal availability and the possible need to regulate the production and consumption of renewable energy with grid-scale battery arrays installed at certain locations. This urgent need motivates developing the mixed-integer programming model as presented in this paper. Furthermore, a comprehensive case study on Taiwan's national highways covers such useful knowledge as the process to prepare key numeric data, especially local solar and wind energy and highway traffic, in-depth analysis on model solutions to reveal the overall availability of renewable energy across the highway network, and close measurements on the required investments. These findings support using renewable energy to power EVs on a national highway and reveal the importance of local business involvements. However, a relatively small country, such as Taiwan, can still display significant variations in renewable power availability. In a stand-alone setting for power usage, these variations would result in massive volumes of renewable energy not used by highway travel in some seasons. These details demonstrate the applicability and values of the proposed model in a real situation.
+AD  - Natl Cent Univ, Inst Ind Management, Taoyuan 320317, TaiwanAD  - Natl Chung Hsing Univ, Inst Technol Management, Taichung 402, TaiwanC3  - National Central UniversityC3  - National Chung Hsing UniversityFU  - National Central University: Office of International Affairs; National Central University: Graduate Institute of Industrial Management
+FX  - This research received financial support from two organizations in National Central University: Office of International Affairs and Graduate Institute of Industrial Management.
+PU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 2071-1050
+J9  - SUSTAINABILITY-BASEL
+JI  - Sustainability
+DA  - MAY
+PY  - 2021
+VL  - 13
+IS  - 10
+C7  - 5456
+DO  - 10.3390/su13105456
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000662604000001
+N1  - Times Cited in Web of Science Core Collection:  19
+Total Times Cited:  21
+Cited Reference Count:  79
+ER  -
+
+TY  - JOUR
+AU  - Ribeiro, PJG
+AU  - Dias, G
+AU  - Mendes, JFG
+TI  - Public Transport Decarbonization: An Exploratory Approach to Bus Electrification
+T2  - WORLD ELECTRIC VEHICLE JOURNAL
+LA  - English
+KW  - public transport decarbonization
+KW  - BEBs
+KW  - BEB systematic review
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - BATTERY ELECTRIC BUS
+KW  - PLUG-IN HYBRID
+KW  - CHARGING INFRASTRUCTURE
+KW  - OPTIMIZATION MODEL
+KW  - CITY BUSES
+KW  - EMISSIONS
+KW  - COST
+KW  - SYSTEM
+KW  - IMPACT
+AB  - In 2020, only 0.9% of buses running in European Union countries were electric, with 93.5% still being diesel-powered. The Sustainable and Smart Mobility Strategy set out by the European Commission targets a reduction of at least 55% in greenhouse gas emissions by 2023 and the achievement of climate neutrality by 2050. These targets will only be met by a shift to sustainable mobility, which comprises the introduction of electric vehicles in cities and the adoption of battery electric vehicles (BEV) for urban public transport. Thus, a literature review on "electrification of bus fleets" was conducted, focusing on the practices adopted for the replacement of polluting buses with electric-powered ones. A total of 62 documents were included in the final investigation, and their results were used to conduct a SWOT analysis. It is possible to conclude that BEBs are an important asset for cities to decarbonize the transport sector and that they are more cost-effective than diesel buses. On the other hand, some attention needs to be given to the generation of energy that will feed the charging of batteries because the use of fossil fuel energy sources can jeopardize the environmental benefits of BEBs.
+AD  - Univ Minho, Ctr Terr Environm & Construct, Sch Engn, P-4800058 Guimaraes, PortugalC3  - Universidade do MinhoPU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 2032-6653
+J9  - WORLD ELECTR VEHIC J
+JI  - World Electr. Vehicle J.
+DA  - MAR
+PY  - 2024
+VL  - 15
+IS  - 3
+C7  - 81
+DO  - 10.3390/wevj15030081
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001192518200001
+N1  - Times Cited in Web of Science Core Collection:  20
+Total Times Cited:  24
+Cited Reference Count:  87
+ER  -
+
+TY  - JOUR
+AU  - Al-Ogaili, AS
+AU  - Al-Shetwi, AQ
+AU  - Al-Masri, HMK
+AU  - Babu, TS
+AU  - Hoon, Y
+AU  - Alzaareer, K
+AU  - Babu, NVP
+TI  - Review of the Estimation Methods of Energy Consumption for Battery Electric Buses
+T2  - ENERGIES
+LA  - English
+KW  - battery electric buses
+KW  - well-to-wheel (WTW) model
+KW  - energy consumption forecast
+KW  - transportation networks
+KW  - data analysis
+KW  - FUEL-CELL HYBRID
+KW  - PARTICLE SWARM OPTIMIZATION
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - PLUG-IN HYBRID
+KW  - TRANSPORTATION SYSTEM
+KW  - CITY BUS
+KW  - WELL
+KW  - COST
+KW  - EMISSIONS
+KW  - PERFORMANCE
+AB  - In the transportation sector, electric battery bus (EBB) deployment is considered to be a potential solution to reduce global warming because no greenhouse gas (GHG) emissions are directly produced by EBBs. In addition to the required charging infrastructure, estimating the energy consumption of buses has become a crucial precondition for the deployment and planning of electric bus fleets. Policy and decision-makers may not have the specific tools needed to estimate the energy consumption of a particular bus network. Therefore, many state-of-the-art studies have proposed models to determine the energy demand of electric buses. However, these studies have not critically reviewed, classified and discussed the challenges of the approaches that are applied to estimate EBBs' energy demands. Thus, this manuscript provides a detailed review of the forecasting models used to estimate the energy consumption of EBBs. Furthermore, this work fills the gap by classifying the models for estimating EBBs' energy consumption into small-town depot and big-city depot networks. In brief, this review explains and discusses the models and formulations of networks associated with well-to-wheel (WTW) assessment, which can determine the total energy demand of a bus network. This work also reviews a survey of the most recent optimization methods that could be applied to achieve the optimal pattern parameters of EBB fleet systems, such as the bus battery capacity, charger rated power and the total number of installed chargers in the charging station. This paper highlights the issues and challenges, such as the impact of external factors, replicating real-world data, big data analytics, validity index, and bus routes' topography, with recommendations on each issue. Also, the paper proposes a generic framework based on optimization algorithms, namely, artificial neural network (ANN) and particle swarm optimization (PSO), which will be significant for future development in implementing new energy consumption estimation approaches. Finally, the main findings of this manuscript further our understanding of the determinants that contribute to managing the energy demand of EBBs networks.
+AD  - HelioxCompany, Sale Dept, De Waal 24, NL-5684 PH Best, NetherlandsAD  - Fahad Bin Sultan Univ, Elect Engn Dept, Tabuk 47721, Saudi ArabiaAD  - Fahad Bin Sultan Univ, Dept Renewable Energy Engn, Tabuk 47721, Saudi ArabiaAD  - Yarmouk Univ, Dept Elect Power Engn, Irbid 21163, JordanAD  - Chaitanya Bharathi Inst Technol, Dept Elect & Elect Engn, Hyderabad 500075, Telangana, IndiaAD  - Taylors Univ, Fac Innovat & Technol, Sch Engn, Subang Jaya 47500, Selangor, MalaysiaAD  - Philadelphia Univ, Fac Engn, Elect Engn Dept, Amman 19392, JordanC3  - Fahad Bin Sultan UniversityC3  - Fahad Bin Sultan UniversityC3  - Yarmouk UniversityC3  - Chaitanya Bharathi Institute of TechnologyC3  - Taylor's UniversityC3  - Philadelphia University JordanPU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 1996-1073
+J9  - ENERGIES
+JI  - Energies
+DA  - NOV
+PY  - 2021
+VL  - 14
+IS  - 22
+C7  - 7578
+DO  - 10.3390/en14227578
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000725225900001
+N1  - Times Cited in Web of Science Core Collection:  33
+Total Times Cited:  38
+Cited Reference Count:  108
+ER  -
+
+TY  - JOUR
+AU  - Mulrow, J
+AU  - Grubert, E
+TI  - Greenhouse gas emissions embodied in electric vehicle charging infrastructure: a method and case study of Georgia, US 2021-2050
+T2  - ENVIRONMENTAL RESEARCH: INFRASTRUCTURE AND SUSTAINABILITY
+LA  - English
+KW  - electric vehicles
+KW  - charging infrastructure
+KW  - life cycle analysis
+KW  - LIFE-CYCLE ASSESSMENT
+AB  - Electric vehicle (EV) charging infrastructure buildout is a major greenhouse gas (GHG) mitigation strategy among governments and municipalities. In the United States, where petroleum-based transportation is the largest single source of GHG emissions, the Infrastructure Investment and Jobs Act of 2021 will support building a national network of 500 000 EV charging units. While the climate benefits of driving electric are well established, the potential embodied climate impacts of building out the charging infrastructure are relatively unexplored. Furthermore, 'charging infrastructure' tends to be conceptualized in terms of plugs and stations, leaving out the electrical and communications systems that will be required to support decarbonized and efficient charging. In this study, we present an EV charging system (EVCS) model that describes the material and operational components required for charging and forecasts the scale-up of these components based on EV market share scenarios out to 2050. We develop a methodology for measuring GHG emissions embodied in the buildout of EVCS and incurred during operation of the EVCS, including vehicle recharging, and we demonstrate this model using a case study of Georgia (USA). We find that cumulative GHG emissions from EVCS buildout and use are negligible, at less than 1% of cumulative emissions from personal light duty vehicle travel (including EV recharging and conventional combustion vehicle driving). If an accelerated EVCS buildout were to stimulate a faster transition of the vehicle fleet, the emissions reduction of electrification will far outweigh emissions embodied in EVCS components, even assuming relatively high carbon inputs prior to decarbonization.
+AD  - Purdue Univ, Environm & Ecol Engn, W Lafayette, IN 47907 USAAD  - Univ Notre Dame, Keough Sch Global Affairs, Notre Dame, IN USAC3  - Purdue University SystemC3  - Purdue UniversityC3  - University of Notre DameFU  - This research was supported by a Grant from the National Science Foundation (Award No. 1931980). [1931980]; National Science Foundation
+FX  - This research was supported by a Grant from the National Science Foundation (Award No. 1931980).
+PU  - IOP Publishing Ltd
+PI  - BRISTOL
+PA  - TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN  - 2634-4505
+J9  - ENVIRON RES-INFRASTR
+JI  - Environ. Res.-Infrastruct. Sustain.
+DA  - MAR 1
+PY  - 2023
+VL  - 3
+IS  - 1
+C7  - 015013
+DO  - 10.1088/2634-4505/acc548
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001144770000001
+N1  - Times Cited in Web of Science Core Collection:  16
+Total Times Cited:  17
+Cited Reference Count:  59
+ER  -
+
+TY  - JOUR
+AU  - Haghani, M
+AU  - Sprei, F
+AU  - Kazemzadeh, K
+AU  - Shahhoseini, Z
+AU  - Aghaei, J
+TI  - Trends in electric vehicles research
+T2  - TRANSPORTATION RESEARCH PART D-TRANSPORT AND ENVIRONMENT
+LA  - English
+KW  - Electric vehicles
+KW  - Vehicle electrification
+KW  - Climate change
+KW  - Carbon emission
+KW  - Temporal research trends
+KW  - PLUG-IN HYBRID
+KW  - WIRELESS POWER TRANSFER
+KW  - LITHIUM-ION BATTERIES
+KW  - OF-THE-ART
+KW  - ENERGY-MANAGEMENT-SYSTEM
+KW  - GREENHOUSE-GAS EMISSIONS
+KW  - PUBLIC CHARGING STATIONS
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - DIRECT TORQUE CONTROL
+KW  - FUEL-CELL
+AB  - Electrification of vehicles has been recognised as a key part of meeting global climate change targets and a key aspect of sustainable transport. Here, an integrative and bird's-eye view of scholarly research on Electric Vehicles (EV) is provided with a focus on an objective and quantitative determination of research trends. The analyses suggest that areas of EV research linked to (i) charging infrastructure, (ii) EV adoption, (iii) thermal management systems and (iv) routing problem have been the distinct trending topics in recent years. While hybrid EV proves to have been a dominant keyword, its frequency of use has either flattened out in recent years or is notably on the decline across major subfields of EV research. The findings provide objective indications about the directions to which EV research is currently headed. A secondary outcome is the determination of references that have been most instrumental in developing each major stream of EV research.
+AD  - Univ New South Wales, Ctr Integrated Transport Innovat rCITI, Sch Civil & Environm Engn, UNSW Sydney, Sydney, AustraliaAD  - Chalmers Univ Technol, Dept Space Earth & Environm, Gothenburg, SwedenAD  - Transport NSW, Sydney, NSW, AustraliaAD  - Cent Queensland Univ, Sch Engn & Technol, Rockhampton, Qld, AustraliaC3  - University of New South Wales SydneyC3  - Chalmers University of TechnologyC3  - Central Queensland UniversityFU  - Australian Research Council (ARC) [DE210100440]
+FX  - Milad Haghani acknowledges the research funding provided by Australian Research Council (ARC) grant DE210100440. The authors are thankful for the constructive feedback received from three anonymous reviewers during the peer review process of this paper.
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 1361-9209
+SN  - 1879-2340
+J9  - TRANSPORT RES D-TR E
+JI  - Transport. Res. Part D-Transport. Environ.
+DA  - OCT
+PY  - 2023
+VL  - 123
+C7  - 103881
+DO  - 10.1016/j.trd.2023.103881
+C6  - SEP 2023
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001075656100001
+N1  - Times Cited in Web of Science Core Collection:  76
+Total Times Cited:  94
+Cited Reference Count:  360
+ER  -
+
+TY  - JOUR
+AU  - Middela, MS
+AU  - Mahesh, S
+AU  - Kancharla, SR
+AU  - Ramadurai, G
+AU  - Perme, R
+AU  - Sripada, SK
+AU  - Devi, G
+TI  - Complete LCA of battery electric and conventional fuel vehicles for freight trips
+T2  - TRANSPORTATION RESEARCH PART D-TRANSPORT AND ENVIRONMENT
+LA  - English
+KW  - Urban freight
+KW  - Complete life cycle assessment
+KW  - Battery electric vehicles
+KW  - Bharat stage-VI
+KW  - Truck emissions
+KW  - GREENHOUSE-GAS EMISSIONS
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - EXHAUST EMISSIONS
+KW  - ENERGY-CONSUMPTION
+KW  - GHG EMISSIONS
+KW  - TRUCKS
+KW  - DIESEL
+KW  - MOTORCYCLES
+KW  - HYDROGEN
+KW  - IMPACT
+AB  - Estimating emissions savings from alternative vehicular technologies is essential to streamline urban freight transport policy. We estimate freight emissions in the city of Chennai, India using real-world emission factors obtained from on-board emission measurement systems and trip characteristics collected through an establishment survey. India recently enforced Bharat Stage VI (BS-VI) emission standards and both the central and multiple state governments have introduced battery electric vehicle (BEV) policies. To understand potential benefits, we estimate the emission savings with BS-VI vehicles and BEVs for freight delivery. The BS-VI vehicles reduce tailpipe CO emissions by 20.3%, and HC+NOx. emissions by 74.5%. The GHG emission saving in CO2 equivalents with BEVs is 50.3%, which increase with a greener energy mix, improved transmission and distribution efficiency, cleaner battery production, and more lifetime vehicle kilometres. BS-VI adoption can deliver significant emission reduction until BEVs and charging infrastructure scale up.
+AD  - Indian Inst Technol, Dept Civil Engn, Madras 600036, Tamil Nadu, IndiaAD  - Univ Dublin, Trinity Coll Dublin, Dublin, IrelandAD  - Purdue Univ, Lyles Sch Civil Engn, W Lafayette, IN 47907 USAAD  - Indian Inst Technol, Ctr Excellence Urban Transport, Madras, Tamil Nadu, IndiaC3  - Indian Institute of Technology System (IIT System)C3  - Indian Institute of Technology (IIT) - MadrasC3  - Trinity College DublinC3  - Purdue University SystemC3  - Purdue UniversityC3  - Indian Institute of Technology System (IIT System)C3  - Indian Institute of Technology (IIT) - MadrasFU  - Shakti Sustainable Energy Foundation, India
+FX  - We thank the Shakti Sustainable Energy Foundation, India, for funding part of this research. We also thank Madras Chamber of Commerce & Industry, Sanco Trans limited, and Ashok Leyland for their help in the data collection. The authors sincerely appreciate the efforts of Vinoth Kumar, Hari Krishnan, and other students and staff of Center of Excellence in Urban Transport, IIT Madras for their help in conducting the surveys. We thank the establishment owners and truck owners for providing the information required for this research.
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 1361-9209
+SN  - 1879-2340
+J9  - TRANSPORT RES D-TR E
+JI  - Transport. Res. Part D-Transport. Environ.
+DA  - SEP
+PY  - 2022
+VL  - 110
+C7  - 103398
+DO  - 10.1016/j.trd.2022.103398
+C6  - AUG 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000858867600001
+N1  - Times Cited in Web of Science Core Collection:  15
+Total Times Cited:  18
+Cited Reference Count:  73
+ER  -
+
+TY  - JOUR
+AU  - Soares, L
+AU  - Wang, H
+TI  - Economic Feasibility Analysis of Charging Infrastructure for Electric Ground Fleet in Airports
+T2  - TRANSPORTATION RESEARCH RECORD
+LA  - English
+KW  - aviation
+KW  - environmental impacts of aviation
+KW  - sustainability
+KW  - adaptation
+KW  - sustainability and resilience
+KW  - transportation and sustainability
+KW  - alternative transportation fuels and technologies
+KW  - transportation energy
+KW  - life-cycle analysis
+KW  - LIFE-CYCLE ASSESSMENT
+AB  - Many airports are converting their ground fleets to electric vehicles to reduce greenhouse gas emissions and increase airport operation sustainability. Although this paradigm shift is relevant to the environment, it is necessary to understand the economic feasibility to justify the decision. This study used life-cycle cost analysis (LCCA) to compare the economic performance of electrified ground fleets in the airport with a conventional fossil fuel fleet. Three different charging systems (plug-in charging, stationary wireless charging, and dynamic wireless charging) for pushback tractors and inter-terminal buses at a major hub airport were considered in the analysis. Although the conventional fossil fuel options present the lowest initial cost for both fleets, they cost most in a 30-year analysis period. Among three electric charging infrastructures, the plug-in charging station shows the least accumulative cost for pushback tractors, and their cost differences are negligible for inter-terminal buses. Although the electric ground fleet is proved to show economic benefits, the most cost-effective charging infrastructure may vary depending on driving mileage and system design. The use of LCCA to analyze new systems and infrastructures for decision making at the project level is highly recommended.
+AD  - Rutgers State Univ, Dept Civil & Environm Engn, New Brunswick, NJ 08901 USAC3  - Rutgers University SystemC3  - Rutgers University New BrunswickFU  - Airport Cooperative Research Program of Transportation Research Board
+FX  - The authors acknowledge the financial support provided by the Airport Cooperative Research Program of Transportation Research Board and the comments from panel members. The authors also thank the help provided by EWR airport and United Airlines during the field visit.
+PU  - SAGE PUBLICATIONS INC
+PI  - THOUSAND OAKS
+PA  - 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN  - 0361-1981
+SN  - 2169-4052
+J9  - TRANSPORT RES REC
+JI  - Transp. Res. Record
+DA  - DEC
+PY  - 2021
+VL  - 2675
+IS  - 12
+SP  - 1
+EP  - 12
+C7  - 03611981211033859
+DO  - 10.1177/03611981211033859
+C6  - SEP 2021
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000694677800001
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  21
+ER  -
+
+TY  - JOUR
+AU  - Kumar, R
+AU  - Lamba, K
+AU  - Raman, A
+TI  - Role of zero emission vehicles in sustainable transformation of the Indian automobile industry
+T2  - RESEARCH IN TRANSPORTATION ECONOMICS
+LA  - English
+KW  - Electric vehicles
+KW  - Sustainability
+KW  - Automobile
+KW  - PESTEL
+KW  - PPTF
+KW  - Diversification
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - PLUG-IN HYBRID
+KW  - ELECTRIC VEHICLES
+KW  - ENVIRONMENTAL-IMPACT
+KW  - TECHNOLOGIES
+KW  - ADOPTION
+AB  - The Indian automobile industry is growing rapidly; however, it is predominantly served by internal combustion engine vehicles (ICEVs). The ICEVs are the primary source of urban pollution and greenhouse gas (GHG) emissions. The alarming levels of urban pollution are putting enormous pressure on the Indian automobile industry to switch from ICEVs to zero emission vehicles such as electric vehicles (EVs). Even though the potential of EVs as a safe transportation alternative has been acknowledged and encouraged by Indian government, the commercialization of EVs has not received the desired success as of now. There are many hindrances to large-scale adoption of EVs such as high initial price, driving range anxiety, lack of proper charging infrastructure, and underdeveloped battery technology etc. This study aims to evaluate the conducive factors for EV adoption and completes in three phases. In the first phase, supporting forces to EV adoption in India are explored using political, economic, social, technological, environmental, and legal (PESTEL) analysis, and capability needs for EV manufacturing business in India are identified in phase two using the people, process, technology, and finance (PPTF) framework. Finally, segment analysis is performed to find out the most profitable segment to foray into the current situation.
+AD  - NTPC Sch Business, Noida, IndiaAD  - Int Management Inst, New Delhi, IndiaAD  - NTPC, Noida, IndiaC3  - IMI DelhiPU  - ELSEVIER SCI LTD
+PI  - London
+PA  - 125 London Wall, London, ENGLAND
+SN  - 0739-8859
+SN  - 1875-7979
+J9  - RES TRANSP ECON
+JI  - Res. Transp. Econ.
+DA  - DEC
+PY  - 2021
+VL  - 90
+C7  - 101064
+DO  - 10.1016/j.retrec.2021.101064
+C6  - DEC 2021
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000729667200042
+N1  - Times Cited in Web of Science Core Collection:  31
+Total Times Cited:  36
+Cited Reference Count:  56
+ER  -
+
+TY  - JOUR
+AU  - Malik, MAI
+AU  - Kalam, MA
+AU  - Ikram, A
+AU  - Zeeshan, S
+AU  - Zahidi, SQR
+TI  - Energy transition towards electric vehicle technology: Recent advancements
+T2  - ENERGY REPORTS
+LA  - English
+KW  - Electric vehicles
+KW  - Sustainable development goals
+KW  - Carbon footprint
+KW  - Lifecycle assessment
+KW  - LITHIUM-ION BATTERY
+KW  - THERMAL MANAGEMENT-SYSTEM
+KW  - PHASE-CHANGE MATERIAL
+KW  - MODEL-PREDICTIVE CONTROL
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - FUEL-CELL
+KW  - DECENTRALIZED COORDINATION
+KW  - ENVIRONMENTAL-IMPACT
+KW  - POLICY MEASURES
+KW  - HYBRID
+AB  - Electric vehicles (EVs) have emerged as a potential solution to address the ecological issues posed by conventional internal combustion engine vehicles. The current study entails a comprehensive overview of the advancements and challenges in EV technology, focusing on key areas of development, including battery technology, environmental impact, charging infrastructure, and vehicle design. The current study begins by summarizing the significant improvements in battery energy density, cost reduction, and durability, which have contributed to the growing popularity of EVs. Evaluating developments in battery chemistry, energy density, and affordability, the study emphasizes how vital batteries are to determining the range and efficiency of electric vehicles. Focusing on deploying fast-charging networks and wireless charging technologies highlights the lack of technological advancements in the current charging infrastructure. Maximizing EV performance and range encompasses advancements in lightweight materials, aerodynamic improvements, and the integration of advanced driver-assistance systems. Environmental factors play a major role in this assessment since reducing air pollution and greenhouse gas emissions drives the switch to EVs. In this study, the life cycle of EVs is compared to that of conventional vehicles, and the possibility of EVs reducing the transportation sector's overall carbon footprint will contribute to net zero carbon emissions. In conclusion, this comprehensive review of recent developments and trends in EV technology, such as solid-state batteries, driverless EVs, and the contribution of tax breaks to EV adoption. To conclude, this thorough analysis is an invaluable resource for scholars, decision-makers, and industry participants who seek to comprehend the condition of EV technology today, its obstacles, and its potential to transform sustainable transportation completely.
+AD  - Univ Technol, Sch Civil & Environm Engn, FEIT, Sydney, NSW 2007, AustraliaAD  - Chonnam Natl Univ, Fac Engn, Chungnam, South KoreaAD  - Superior Univ, Dept Mech Engn, Lahore, PakistanAD  - Univ Cent Punjab, Dept Mech Engn, Lahore, PakistanC3  - University of Technology SydneyC3  - Chonnam National UniversityC3  - University of Central PunjabFU  - UTS
+FX  - UTS Strategic Research Support 2024 under Md Abul Kalam.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2352-4847
+J9  - ENERGY REP
+JI  - Energy Rep.
+DA  - JUN
+PY  - 2025
+VL  - 13
+SP  - 2958
+EP  - 2996
+DO  - 10.1016/j.egyr.2025.02.029
+C6  - FEB 2025
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001437224900001
+N1  - Times Cited in Web of Science Core Collection:  37
+Total Times Cited:  40
+Cited Reference Count:  249
+ER  -
+
+TY  - JOUR
+AU  - Giourka, P
+AU  - Petridis, S
+AU  - Seitaridis, A
+AU  - Angelakoglou, K
+AU  - Martinopoulos, G
+AU  - Kosmatopoulos, E
+AU  - Nikolopoulos, N
+TI  - Operational Smart Charging and Its Environmental Impacts: Evidence from Three EU Use Cases with an Innovative LCA Tool, VERIFY-EV
+T2  - ENERGIES
+LA  - English
+KW  - life cycle assessment
+KW  - EV driving
+KW  - V2G
+KW  - climate neutrality
+AB  - The rapid uptake of electric vehicles (EVs) across Europe offers opportunities for reducing transport-related emissions but also presents new challenges for electricity grids, particularly in relation to congestion and peak demand. Although most lifecycle assessment (LCA) studies show that EVs emit fewer greenhouse gases (GHG) over their lifetimes than internal combustion engine (ICE) vehicles with comparable power output, particularly under the European electricity mix, the environmental impacts of mitigating grid congestion through smart charging (by time and location) are rarely quantified using real-world data. Using a high-granularity LCA tool that utilizes hourly data, this study assesses EV deployment strategies across Europe and provides case-specific insights. The presented LCA tool provides a transferable methodology to support data-driven decision-making for urban planners, distribution system operators, and policymakers committed to accelerating sustainable mobility transitions utilizing GHG payback time thresholds as a practical metric for evaluating infrastructure sustainability. Results demonstrate that EVs reduce GHG emissions by 55-99% per kilometer compared to ICE vehicles, especially when benefiting from renewable-powered charging and smart bidirectional infrastructure. Furthermore, the analysis highlights that counter-congestion strategies deliver additional savings, though outcomes depend strongly on grid carbon intensity and charger utilization patterns.
+AD  - Chem Proc & Energy Resources Inst CPERI, Ctr Res & Technol Hellas CERTH, GR-57001 Thessaloniki, GreeceAD  - Democritus Univ Thrace, Dept Elect & Comp Engn, GR-67100 Xanthi, GreeceAD  - Merchant Marine Acad Macedonia, GR-57004 Nea Michaniona, GreeceC3  - Centre for Research & Technology HellasC3  - Democritus University of ThraceFU  - CINEA [101056874]; Horizon Europe - Pillar II [101056874] Funding Source: Horizon Europe - Pillar II
+FX  - This research was co-funded by Horizon 2020, research and innovation programme, CINEA, grant number 101056874 (SCALE-Smart Charging ALignment for Europe). This is a feature paper invitation.
+PU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 1996-1073
+J9  - ENERGIES
+JI  - Energies
+DA  - NOV 27
+PY  - 2025
+VL  - 18
+IS  - 23
+C7  - 6215
+DO  - 10.3390/en18236215
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001634318600001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  42
+ER  -
+
+TY  - JOUR
+AU  - Morfeldt, J
+AU  - Shoman, W
+AU  - Johansson, DJA
+AU  - Yeh, S
+AU  - Karlsson, S
+TI  - If Electric Cars Are Good for Reducing Emissions, They Could Be Even Better with Electric Roads
+T2  - ENVIRONMENTAL SCIENCE & TECHNOLOGY
+LA  - English
+KW  - prospective life cycle assessment
+KW  - greenhouse gas emissions
+KW  - battery capacity
+KW  - battery electric vehicles
+KW  - electric road system
+KW  - carbon footprint
+KW  - CHARGING INFRASTRUCTURE
+KW  - VEHICLES
+KW  - ELECTRIFICATION
+AB  - This research investigates carbon footprint impacts combination with different charging conditions, including electric road system (ERS) that enables dynamic on-road charging. The research applies a prospective life cycle analysis framework for estimating carbon footprints of vehicles, fuels, and infrastructure. The framework includes vehicle stock turnover modeling of fleet electrification and modeling of optimal battery capacity for different charging conditions based on Swedish real-world driving patterns. All new car sales are assumed to be electric after 2030 following phase-out policies for gasoline and diesel cars. Implementing ERS on selected high-traffic roads could yield significant avoided emissions in battery manufacturing compared to the additional emissions in ERS construction. ERS combined with stationary charging could enable additional reductions in the cumulative carbon footprint of about 12-24 million tons of CO2 over 30 years (2030-2060) compared to an electrified fleet only relying on stationary charging. The range depends on uncertainty in emission abatement in global manufacturing, where the lower is based on Paris Agreement compliance and the higher on current climate policies. A large share of the reduction could be achieved even if only a small share of the cars adopts the optimized battery capacities.
+AD  - Chalmers Univ Technol, Dept Space Earth & Environm, Phys Resource Theory, SE-41296 Gothenburg, SwedenC3  - Chalmers University of TechnologyFU  - Mistra Carbon Exit by Mistra, the Swedish Foundation for Strategic Environmental Research
+FX  - The authors acknowledge the support for this research by Mistra Carbon Exit financed by Mistra, the Swedish Foundation for Strategic Environmental Research. The authors thank the four anonymous reviewers for valuable comments on earlier versions of the article.
+PU  - AMER CHEMICAL SOC
+PI  - WASHINGTON
+PA  - 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN  - 0013-936X
+SN  - 1520-5851
+J9  - ENVIRON SCI TECHNOL
+JI  - Environ. Sci. Technol.
+DA  - 2022 JUN 23
+PY  - 2022
+DO  - 10.1021/acs.est.2c00018
+C6  - JUN 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000818712900001
+N1  - Times Cited in Web of Science Core Collection:  10
+Total Times Cited:  10
+Cited Reference Count:  63
+ER  -
+
+TY  - JOUR
+AU  - Lakanen, L
+AU  - Kumpulainen, H
+AU  - Helppi, O
+AU  - Grönman, K
+AU  - Soukka, R
+TI  - Carbon Handprint Approach for Cities and Regions: A Framework to Reveal and Assess the Potential of Cities in Climate Change Mitigation
+T2  - SUSTAINABILITY
+LA  - English
+KW  - footprint
+KW  - handprint
+KW  - carbon footprint
+KW  - carbon handprint
+KW  - greenhouse gas emissions
+KW  - climate change
+KW  - life-cycle assessment
+AB  - Cities play a pivotal role in climate change mitigation; however, the methodology to quantify actual emission reduction potential of climate interventions implemented by cities and regions has been lacking. The aim of this study is to create a framework to assess positive climate impacts of cities and regions by modifying the life-cycle assessment (LCA)-based carbon handprint framework. Additionally, a step-by-step guidance to perform calculations is presented. A case study of the Finnish city of Espoo is used to further develop and test the regional handprint approach both qualitatively and quantitatively. According to our research, a city ' s carbon handprint can be determined through the three main mechanism categories of ownership, operating environment and projects. In the case of Espoo, the carbon handprint of building public electric vehicle charging stations on city-owned land from the mechanism category of ownership showed to be up to 110 tCO(2)eq/a for 18 charging stations. However, the overall handprint of a city consists of several actions, to be calculated separately. The regional carbon handprint approach provides a useful instrument to reliable quantify and communicate the innovative climate actions implemented by a city and it can be used in cities ' climate work as well as in marketing and branding purposes. Handprint turns the focus on possibilities for increasing a city vitality. As a provider of climate solutions, a city can attract new taxpayers and by focusing efforts to a certain sector, a city can help companies to reach synergies in fields essential from the climate point of view.
+AD  - Lappeenranta Lahti Univ Technol LUT, LUT Sch Energy Syst, Dept Sustainabil Sci, FI-53850 Lappeenranta, FinlandAD  - LCA Consulting Oy, Laserkatu 6, FI-53850 Lappeenranta, FinlandC3  - Lappeenranta-Lahti University of Technology LUTFU  - Helsinki-Uusimaa Regional Council [307/07, 00.03.02/2021]
+FX  - This research was funded by Helsinki-Uusimaa Regional Council, grant number 307/07. 00.03.02/2021.
+PU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 2071-1050
+J9  - SUSTAINABILITY-BASEL
+JI  - Sustainability
+DA  - JUN
+PY  - 2022
+VL  - 14
+IS  - 11
+C7  - 6534
+DO  - 10.3390/su14116534
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000809473300001
+N1  - Times Cited in Web of Science Core Collection:  6
+Total Times Cited:  7
+Cited Reference Count:  43
+ER  -
+
+TY  - JOUR
+AU  - Claudelin, A
+AU  - Jouzi, F
+AU  - Lakanen, L
+AU  - Levänen, J
+AU  - Soukka, R
+TI  - Social life cycle assessment of the use phase in mobility: case study of a Finnish region considering consumers
+T2  - JOURNAL OF CLEANER PRODUCTION
+LA  - English
+KW  - Social life cycle assessment
+KW  - S-LCA
+KW  - Mobility
+KW  - Case study
+KW  - Use phase
+KW  - Equality
+KW  - Consumers
+AB  - To mitigate climate change, many countries have plans for significantly reducing transportation-related greenhouse gas emissions, and various national and international policies have been implemented for this reason. Current practices, including such policies, may not treat citizens with different socioeconomic backgrounds equally. Previous research shows that, for example, people with low income have less access to electric vehicle charging infrastructure. This article studies how different citizen groups are affected by current mobility policy in Finland in terms of satisfaction, accessibility, and affordability. Considered policies are investment support for charging infrastructure and biofuel distribution obligation. Citizens are grouped based on transportation mode, income level, and residential area. The study was conducted using social life cycle assessment, and a reference scale method was used. Six new qualitative indicators are defined, and two quantitative indicators are modified from previous research. Data were acquired via a survey. The indicators reveal inequal social impacts within the citizen groups. Owners of electric vehicles were most satisfied regarding costs and comfort, and they had lower transportation costs than internal combustion engine car owners. People in the lowest income group were the least satisfied, they had the lowest accessibility to charging infrastructure in their homes, and the increase of fuel price had impacted them the most. The findings indicate that social life cycle assessment can be used to assess the social impacts of policies even though these impacts cannot be fully separated from other factors influencing mobility.
+AD  - LUT Univ, Dept Sustainabil Sci, Mukkulankatu 19, Lahti 15210, FinlandFU  - European Union [101056734]; Horizon Europe - Pillar II [101056734] Funding Source: Horizon Europe - Pillar II
+FX  - This work was supported by the European Union's Horizon Europe programme, under grant agreement No. 101056734 (PATTERN project). Views and opinions expressed are however those of the author (s) only and do not necessarily reflect those of the European Union.
+PU  - ELSEVIER SCI LTD
+PI  - London
+PA  - 125 London Wall, London, ENGLAND
+SN  - 0959-6526
+SN  - 1879-1786
+J9  - J CLEAN PROD
+JI  - J. Clean Prod.
+DA  - SEP 20
+PY  - 2025
+VL  - 525
+C7  - 146647
+DO  - 10.1016/j.jclepro.2025.146647
+C6  - SEP 2025
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001576057500001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  34
+ER  -
+
+TY  - JOUR
+AU  - Syré, AM
+AU  - Göhlich, D
+TI  - Decarbonization of Long-Haul Heavy-Duty Truck Transport: Technologies, Life Cycle Emissions, and Costs
+T2  - WORLD ELECTRIC VEHICLE JOURNAL
+LA  - English
+KW  - life cycle assessment
+KW  - total cost of ownership
+KW  - battery-electric vehicles
+KW  - fuel-cell-electric vehicles
+KW  - high-power charger
+KW  - electric road system
+KW  - hydrogen refueling station
+KW  - ENVIRONMENTAL ASSESSMENT
+KW  - ELECTRIC VEHICLES
+KW  - HYDROGEN
+KW  - ENERGY
+KW  - IMPACT
+AB  - Decarbonizing long-haul, heavy-duty transport in Europe focuses on battery-electric trucks with high-power chargers or electric road systems and fuel-cell-electric vehicles with hydrogen refueling stations. We present a comparative life cycle assessment and total cost of ownership analysis of these technologies for 20% of Germany's heavy-duty, long-haul transport alongside internal combustion engine vehicles. The results show that fuel cell vehicles with on-site hydrogen have the highest life cycle emissions (65 Mt CO2e), followed by internal combustion engine vehicles (55 Mt CO2e). Battery-electric vehicles using electric road systems achieve the lowest emissions (21 Mt CO2e) and the lowest costs (EUR 45 billion). In contrast, fuel cell vehicles with on-site hydrogen have the highest costs (EUR 69 billion). Operational costs dominate total expenses, making them a compelling target for subsidies. The choice between battery and fuel cell technologies depends on the ratio of vehicles to infrastructure, transport performance, and range. Fuel cell trucks are better suited for remote areas due to their longer range, while integrating electric road systems with high-power charging could offer synergies. Recent advancements in battery and fuel cell durability further highlight the potential of both technologies in heavy-duty transport. This study provides insights for policymakers and industry stakeholders in the shift towards sustainable transport. The greenhouse gas emission savings from adopting battery-electric trucks are 54% in our high-power charging scenario and 62% in the electric road system scenario in comparison to the reference scenario with diesel trucks.
+AD  - Tech Univ Berlin, Methods Prod Dev & Mechatron, Str 17 Juni 135, D-10623 Berlin, GermanyC3  - Technical University of BerlinFU  - Deutsche Forschungsgemeinschaft [398051144]; Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) [03EMF0404D]; German Federal Ministry of Digital and Transport [16EM5002-2]; German Federal Ministry for Economic Affairs and Climate Action (BMWK) [03SF0674A]; German Federal Ministry of Education and Research
+FX  - This research was funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation), project number 398051144, by the German Federal Ministry of Digital and Transport, funding code: 03EMF0404D, by the German Federal Ministry for Economic Affairs and Climate Action (BMWK), funding code: 16EM5002-2, and by the German Federal Ministry of Education and Research as part of the Research Campus Mobility2Grid (www.mobility2grid.de, accessed on 20 January 2025) funding code: 03SF0674A.
+PU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 2032-6653
+J9  - WORLD ELECTR VEHIC J
+JI  - World Electr. Vehicle J.
+DA  - FEB
+PY  - 2025
+VL  - 16
+IS  - 2
+C7  - 76
+DO  - 10.3390/wevj16020076
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001429516700001
+N1  - Times Cited in Web of Science Core Collection:  12
+Total Times Cited:  13
+Cited Reference Count:  87
+ER  -
+
+TY  - JOUR
+AU  - Mannar, M
+AU  - Du, HB
+AU  - Kommalapati, RR
+TI  - Comparison of the Atmospheric Burden Reductions Based on Alternative Fuel Infrastructure and Operations: Utilization and Vehicle Category
+T2  - SUSTAINABILITY
+LA  - English
+KW  - air pollutants
+KW  - greenhouse gases
+KW  - electric vehicle
+KW  - hydrogen
+KW  - fast charger
+KW  - electrical vehicle supply equipment
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - HYDROGEN-PRODUCTION
+KW  - CELL
+KW  - WELL
+AB  - The extensive availability of electricity and hydrogen in Texas provides enormous potential for adopting alternative energy for transportation. The operational phase of alternative energy infrastructure is an essential element in its environmental impact assessment and has not been evaluated up to this point, especially in terms of its utilization and vehicle mix. This study aims to evaluate the environmental impacts of alternative energy options, including fast/slow electric vehicle charging and hydrogen refueling at charging/refueling stations. The AFLEET Charging and Fueling Infrastructure (CFI) Emissions Tool was used to analyze the burden reductions in life cycle GHGs and air pollutants. The station operation considered infrastructure type, utilization, and vehicle mix (LDVs and HDVs). High utilization of the station yielded more burden reductions. Fast-charging supply equipment resulted in higher GHG burden reductions compared to the slow counterpart (367% in moderate utilization). Elevated burden reductions were observed in GHGs, VOC, and CO pollutants with more LDVs. There was an increase in NOx burden reductions of approximately 5200 lb. (moderate utilization), while transiting from 100% LDV to 75% LDV. Increased burden reductions were noted in particulate matter for 50% LDV. Also, enhanced burden reductions were observed in SOx with more HDVs for EVs and equal vehicle mix in hydrogen. Increased GHG burden reductions were identified in SMR than electrolysis. These results recommend policy makers focus on maximized utilization of the new or existing infrastructure to reduce environmental loads.
+AD  - Prairie View A&M Univ, Ctr Energy & Environm Sustainabil, Prairie View, TX 77446 USAAD  - Tarleton State Univ, Dept Mech Environm & Civil Engn, Stephenville, TX 76402 USAAD  - Prairie View A&M Univ, Dept Civil & Environm Engn, Prairie View, TX 77446 USAC3  - Texas A&M University SystemC3  - Prairie View A&M UniversityC3  - Texas A&M University SystemC3  - Tarleton State UniversityC3  - Texas A&M University SystemC3  - Prairie View A&M UniversityFU  - National Center for Infrastructure Transformation (NCIT) [69A3552344813]; U.S. Department of Transportation; NSF CREST center for Energy and Environmental Sustainability-Phase II [1914692]
+FX  - This research was primarily funded by the U.S. Department of Transportation, through National Center for Infrastructure Transformation (NCIT), contract number #69A3552344813. A partial support was received from the NSF CREST center for Energy and Environmental Sustainability-Phase II (Award #1914692).
+PU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 2071-1050
+J9  - SUSTAINABILITY-BASEL
+JI  - Sustainability
+DA  - FEB 6
+PY  - 2026
+VL  - 18
+IS  - 3
+C7  - 1664
+DO  - 10.3390/su18031664
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001688135600001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  49
+ER  -
+
+TY  - JOUR
+AU  - Aoun, A
+AU  - Adda, M
+AU  - Ilinca, A
+AU  - Ghandour, M
+AU  - Ibrahim, H
+TI  - Dynamic Charging Optimization Algorithm for Electric Vehicles to Mitigate Grid Power Peaks
+T2  - WORLD ELECTRIC VEHICLE JOURNAL
+LA  - English
+KW  - energy management
+KW  - electric vehicle
+KW  - charging optimization
+KW  - smart charging
+KW  - dynamic optimization algorithm
+KW  - state of charge
+KW  - efficiency
+KW  - peak load management
+KW  - grid modernization
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - INFRASTRUCTURE
+KW  - CHALLENGES
+KW  - MANAGEMENT
+KW  - ADOPTION
+AB  - The rapid proliferation of electric vehicles (EVs) presents both opportunities and challenges for the electrical grid. While EVs offer a promising avenue for reducing greenhouse gas emissions and dependence on fossil fuels, their uncoordinated charging behavior can strain grid infrastructure, thus creating new challenges for grid operators and EV owners equally. The uncoordinated nature of electric vehicle charging may lead to the emergence of new peak loads. Grid operators typically plan for peak demand periods and deploy resources accordingly to ensure grid stability. Uncoordinated EV charging can introduce unpredictability and variability into peak load patterns, making it more challenging for operators to manage peak loads effectively. This paper examines the implications of uncoordinated EV charging on the electric grid to address this challenge and proposes a novel dynamic optimization algorithm tailored to manage EV charging schedules efficiently, mitigating grid power peaks while ensuring user satisfaction and vehicle charging requirements. The proposed "Proof of Need" (PoN) charging algorithm aims to schedule the charging of EVs based on collected data such as the state of charge (SoC) of the EV's battery, the charger power, the number of connected vehicles per household, the end-user's preferences, and the local distribution substation's capacity. The PoN algorithm calculates a priority index for each EV and coordinates the charging of all connected EVs at all times in a way that does not exceed the maximum allocated power capacity. The algorithm was tested under different scenarios, and the results offer a comparison of the charging power demand between an uncoordinated EV charging baseline scenario and the proposed coordinated charging model, proving the efficiency of our proposed algorithm, thus reducing the charging demand by 40.8% with no impact on the overall total charging time.
+AD  - Univ Quebec Rimouski UQAR, Dept Math Informat & Genie, Rimouski, PQ G5L 3A1, CanadaAD  - Ecole Technol Super ETS, Dept Genie Mecan, Montreal, PQ H3C 1K3, CanadaAD  - Lebanese Univ, Fac Engn, Beirut 1003, LebanonAD  - Univ Quebec Trois Rivieres UQTR, Ctr Natl Integre Manufacturier Intelligent CNIMI, Drummondville, PQ J2C 0R5, CanadaC3  - University of QuebecC3  - Universite du Quebec a RimouskiC3  - University of QuebecC3  - Ecole de Technologie Superieure - CanadaC3  - Lebanese UniversityPU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2032-6653
+J9  - WORLD ELECTR VEHIC J
+JI  - World Electr. Vehicle J.
+DA  - JUL
+PY  - 2024
+VL  - 15
+IS  - 7
+C7  - 324
+DO  - 10.3390/wevj15070324
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001277080300001
+N1  - Times Cited in Web of Science Core Collection:  20
+Total Times Cited:  21
+Cited Reference Count:  35
+ER  -
+
+TY  - JOUR
+AU  - Shirazi, MA
+AU  - Zahedi, R
+AU  - Yousefi, H
+AU  - Aslani, A
+TI  - Environmental and damage assessment of electric vehicles compared to internal combustion engine vehicles under various ambient temperature scenarios using the LCA approach
+T2  - ENERGY NEXUS
+LA  - English
+KW  - Ambient temperature
+KW  - Electric vehicles
+KW  - Energy consumption
+KW  - Environmental impacts
+KW  - Internal combustion engine vehicles
+KW  - Life cycle assessment
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - ENERGY-CONSUMPTION
+KW  - BATTERY
+KW  - IMPACT
+AB  - This study assesses the environmental impacts of the energy consumption of electric vehicles (EVs) and internal combustion engine vehicles (ICEVs) using a life cycle assessment (LCA) approach considering four temperature scenarios. The aim is to compare the environmental performance of the energy consumption of both vehicle types under different climatic conditions and to identify the most sustainable option. The functional unit for this study was set at 100 km of distance. The results show that temperature significantly affects the environmental impacts of EVs and ICEVs. EVs operating at warmer temperatures (30 degrees C) showed lower environmental impacts compared to those operating at colder temperatures (-7 degrees C). The third EV scenario with renewable wind energy at 30 degrees C produced 90 % less CO2 emissions than the third ICEV scenario at the same temperature (0.3318 kg CO2eq per 100 km, compared to 3.3372 kg CO2eq). In addition, EVs showed lower impacts in key categories such as human health, particulate matter formation and resource depletion. ICEV scenarios, especially at lower temperatures, showed higher greenhouse gas emissions and environmental loads. The findings suggest that electric vehicles, especially when powered by renewable energy sources and operated under optimal temperature conditions, offer significant environmental benefits over ICEVs. This study highlights the importance of considering temperature and energy sources when assessing the environmental performance of vehicles and provides valuable insights for future vehicle design and policymaking aimed at reducing the environmental impacts associated with transportation. Policy recommendations include optimizing charging infrastructure in cold regions and promoting EVs in warmer climates.
+AD  - Univ Tehran, Sch Energy Engn & Sustainable Resources, Tehran, IranC3  - University of TehranPU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2772-4271
+J9  - ENERGY NEXUS
+JI  - Energy Nexus
+DA  - DEC
+PY  - 2025
+VL  - 20
+C7  - 100606
+DO  - 10.1016/j.nexus.2025.100606
+C6  - NOV 2025
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001628505900002
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  59
+ER  -
+
+TY  - JOUR
+AU  - Gnanavendan, S
+AU  - Selvaraj, SK
+AU  - Dev, SJ
+AU  - Mahato, KK
+AU  - Swathish, RS
+AU  - Sundaramali, G
+AU  - Accouche, O
+AU  - Azab, M
+TI  - Challenges, Solutions and Future Trends in EV-Technology: A Review
+T2  - IEEE ACCESS
+LA  - English
+KW  - Batteries
+KW  - Economics
+KW  - Costs
+KW  - Carbon footprint
+KW  - Manufacturing
+KW  - Industries
+KW  - Production
+KW  - Electric vehicles
+KW  - Power grids
+KW  - LIBs
+KW  - power grid
+KW  - WPT
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - LITHIUM-ION BATTERIES
+KW  - GREENHOUSE-GAS EMISSIONS
+KW  - IN ELECTRIC VEHICLES
+KW  - POWER-SUPPLY RAILS
+KW  - CHARGING INFRASTRUCTURE
+KW  - IMPACTS
+KW  - OPPORTUNITIES
+KW  - PROSPECTS
+KW  - HYBRID
+AB  - The transportation industry is one of the greatest contributors to a growing carbon footprint. As the world increasingly prioritizes a greener and cleaner future, the transition from ICEs to EVS offers significant benefits as EVs are zero-emission vehicles. However, considering the production and disposal stages of EVs, they cannot be considered entirely emission-free. But in comparison to ICEs, they still have a much smaller carbon footprint. Moreover, studying EV technology is essential to bringing this to the lowest possible extent. However, these advancements come with challenges. In this review article, we have taken an in-depth look into the various challenges, namely the economic challenges, technological challenges, and environmental challenges, faced by EV technology today and the various solutions proposed by researchers, their limitations, and future potential in EV technology advancement. Within this context, we discuss the influence of governmental policies, accessibility and affordability of EVs to the masses, natural and man-made disasters, economic instability, technological limitations posed by the vehicle technology, and limitations posed by battery technology with batteries being the central element for EVs, limitations associated with the existing infrastructure and its ability to support widescale use of EVs, and environmental factors like carbon footprint, among other factors, on EVs technology and the opportunities this technology can make use of in the future. This paper discusses these concerns in detail and gives extensive insight into the challenges, solutions, and future trends pertaining to economic impacts, vehicle technology, battery technology, power grids and charging infrastructure, and environmental impact, of EVs and EV technology.
+AD  - Vellore Inst Technol, Sch Mech Engn SMEC, Dept Mech Engn, Vellore 632014, Tamil Nadu, IndiaAD  - Vellore Inst Technol, Sch Mech Engn SMEC, Dept Mfg Engn, Vellore 632014, Tamil Nadu, IndiaAD  - Amer Univ Middle East, Coll Engn & Technol, Egaila 54200, KuwaitC3  - Vellore Institute of Technology (VIT)C3  - VIT VelloreC3  - Vellore Institute of Technology (VIT)C3  - VIT VelloreC3  - American University of the Middle EastFU  - Vellore Institute of Technology (VIT)
+FX  - No Statement Available
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 2169-3536
+J9  - IEEE ACCESS
+JI  - IEEE Access
+PY  - 2024
+VL  - 12
+SP  - 17242
+EP  - 17260
+DO  - 10.1109/ACCESS.2024.3353378
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001161835400001
+N1  - Times Cited in Web of Science Core Collection:  81
+Total Times Cited:  89
+Cited Reference Count:  111
+ER  -
+
+TY  - JOUR
+AU  - Saraf, N
+AU  - Shastri, Y
+TI  - System dynamics-based assessment of novel transport options adoption in India
+T2  - CLEAN TECHNOLOGIES AND ENVIRONMENTAL POLICY
+LA  - English
+KW  - System dynamics
+KW  - Electric vehicles
+KW  - Biofuel
+KW  - Compressed Biogas
+KW  - Logit model
+KW  - India
+KW  - Climate change
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - ETHANOL-PRODUCTION
+KW  - VEHICLE
+KW  - OPTIMIZATION
+KW  - BIOREFINERY
+KW  - REDUCTIONS
+KW  - EMISSIONS
+KW  - SECTOR
+KW  - IMPACT
+KW  - ENERGY
+AB  - The adoption of novel transport options such as ethanol blended fuel (E85) vehicles, electric vehicles (EV), and compressed natural gas (CNG) vehicles to replace conventional petrol (gasoline) and diesel vehicles is not yet well understood. This work develops a system dynamics (SD) model to study the adoption of these novel options for private transport needs in India as a function of technology performance, cost, and other sector specific features. For EVs, expected growth in battery technology and the inconvenience due to lack of charging infrastructure are considered. Since ethanol production sector is still scaling up, model captures the inter-relationships between demand, supply, producer's profit, and investment in capacity increase. The growth in compressed biogas (CBG) plants and inconvenience due to lack of gas refilling stations are considered for CNG vehicles. For petrol and diesel, the effect of demand on consumer prices and its effect on ownership cost is modelled. A multi-multinominal logit model is used to capture selection of transport option as a function of total ownership costs. Model simulations are performed till 2050, and quantify the adoption trends as well as resulting total greenhouse gas emissions considering life cycle perspective for all the technological options. Simulation results show that E85, EVs and CNG vehicles would constitute 34 % of total private vehicle stock by 2050, resulting in 668.75 million tonnes of CO2 emissions. The targets set by the government for EV adoption and blending rate of ethanol will not be achieved, and significant improvement is costs and infrastructure are needed. Various policy options to improve adoption of new options are explored, identifying the technology development targets.
+   [GRAPHICS]
+   .
+AD  - Indian Inst Technol, Dept Chem Engn, Room 305, Mumbai 400076, Maharashtra, IndiaC3  - Indian Institute of Technology System (IIT System)C3  - Indian Institute of Technology (IIT) - BombayFU  - SPLICE Climate Change Programme, Department of Science and Technology, Ministry of Science and Technology [DST/CCP/CoE/140/2018 (G)]
+FX  - The authors wish to acknowledge support by SPLICE Climate Change Programme, Department of Science and Technology, Ministry of Science and Technology through project DST/CCP/CoE/140/2018 (G).
+PU  - SPRINGER
+PI  - NEW YORK
+PA  - ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN  - 1618-954X
+SN  - 1618-9558
+J9  - CLEAN TECHNOL ENVIR
+JI  - Clean Technol. Environ. Policy
+DA  - APR
+PY  - 2023
+VL  - 25
+IS  - 3
+SP  - 799
+EP  - 823
+DO  - 10.1007/s10098-022-02398-8
+C6  - SEP 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000857800100001
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  59
+ER  -
+
+TY  - JOUR
+AU  - Wang, NM
+AU  - Tang, GW
+TI  - A Review on Environmental Efficiency Evaluation of New Energy Vehicles Using Life Cycle Analysis
+T2  - SUSTAINABILITY
+LA  - English
+KW  - life cycle analysis
+KW  - new energy vehicle
+KW  - environmental efficiency
+KW  - GREENHOUSE-GAS EMISSIONS
+KW  - BATTERY ELECTRIC VEHICLES
+KW  - PLUG-IN HYBRID
+KW  - LITHIUM-ION BATTERIES
+KW  - TO-WHEEL ANALYSIS
+KW  - UNITED-STATES
+KW  - CHARGING INFRASTRUCTURE
+KW  - ALTERNATIVE FUELS
+KW  - IMPACT ASSESSMENT
+KW  - PASSENGER CARS
+AB  - New energy vehicles (NEVs), especially electric vehicles (EVs), address the important task of reducing the greenhouse effect. It is particularly important to measure the environmental efficiency of new energy vehicles, and the life cycle analysis (LCA) model provides a comprehensive evaluation method of environmental efficiency. To provide researchers with knowledge regarding the research trends of LCA in NEVs, a total of 282 related studies were counted from the Web of Science database and analyzed regarding their research contents, research preferences, and research trends. The conclusion drawn from this research is that the stages of energy resource extraction and collection, carrier production and energy transportation, maintenance, and replacement are not considered to be research links. The stages of material, equipment, and car transportation and operation equipment settling, and forms of use need to be considered in future research. Hydrogen fuel cell electric vehicles (HFCEVs), vehicle type classification, the water footprint, battery recovery and reuse, and battery aging are the focus of further research, and comprehensive evaluation combined with more evaluation methods is the direction needed for the optimization of LCA. According to the results of this study regarding EV and hybrid power vehicles (including plug-in hybrid electric vehicles (PHEV), fuel-cell electric vehicles (FCEV), hybrid electric vehicles (HEV), and extended range electric vehicles (EREV)), well-to-wheel (WTW) average carbon dioxide (CO2) emissions have been less than those in the same period of gasoline internal combustion engine vehicles (GICEV). However, EV and hybrid electric vehicle production CO2 emissions have been greater than those during the same period of GICEV and the total CO2 emissions of EV have been less than during the same period of GICEV.
+AD  - Xi An Jiao Tong Univ, Sch Management, 28 Xianning Rd, Xian 710049, Peoples R ChinaAD  - Key Lab Minist Educ Proc Control & Efficiency Eng, 28 Xianning Rd, Xian 710049, Peoples R ChinaAD  - ERC Proc Min Mfg Serv Shaanxi Prov, 28 Xianning Rd, Xian 710049, Peoples R ChinaC3  - Xi'an Jiaotong UniversityFU  - Key Project of National Natural Science Foundation of China [71732006]; Major Project of the National Natural Science Foundation of China [72192830, 72192834]
+FX  - This research is supported by the Key Project of National Natural Science Foundation of China under Grant 71732006, and the Major Project of the National Natural Science Foundation of China under Grant 72192830, 72192834.
+PU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 2071-1050
+J9  - SUSTAINABILITY-BASEL
+JI  - Sustainability
+DA  - MAR
+PY  - 2022
+VL  - 14
+IS  - 6
+C7  - 3371
+DO  - 10.3390/su14063371
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000774301800001
+N1  - Times Cited in Web of Science Core Collection:  46
+Total Times Cited:  57
+Cited Reference Count:  187
+ER  -
+
+TY  - JOUR
+AU  - Hezam, IM
+AU  - Mishra, AR
+AU  - Rani, P
+AU  - Cavallaro, F
+AU  - Saha, A
+AU  - Ali, J
+AU  - Strielkowski, W
+AU  - Streimikiene, D
+TI  - A Hybrid Intuitionistic Fuzzy-MEREC-RS-DNMA Method for Assessing the Alternative Fuel Vehicles with Sustainability Perspectives
+T2  - SUSTAINABILITY
+LA  - English
+KW  - sustainable road transportation
+KW  - alternative fuel vehicles
+KW  - intuitionistic fuzzy sets
+KW  - MEREC
+KW  - RS
+KW  - DNMA
+KW  - multi-attribute decision-analysis
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - ELECTRIC VEHICLES
+KW  - DECISION-MAKING
+KW  - MULTICRITERIA ANALYSIS
+KW  - ENVIRONMENTAL-IMPACT
+KW  - TRANSPORTATION
+KW  - HYDROGEN
+KW  - MODEL
+KW  - AGGREGATION
+KW  - FRAMEWORK
+AB  - Alternative fuel vehicles (AFVs) offer opportunities to lower fuel costs as well as to reduce greenhouse gas emissions, and, therefore, they are a feasible option for customers in the market. Due to technological advancements, decisions about suitable alternative fuel vehicles are a challenging problem for fleet operators. This paper aims to introduce a multi-attribute decision-analysis framework to rank and select the "alternative fuel vehicles (AFVs)" for a private home healthcare service provider in Chandigarh, India. The selection of AFVs can be treated as a decision-making problem, because of the presence of various qualitative and quantitative attributes. Thus, the current work introduces an integrated decision-making framework based on intuitionistic fuzzy-"method based on the removal effects of criteria (MEREC)", "ranking sum (RS)", and the "double normalization-based multi-aggregation (DNMA)" framework for assessing the AFVs. The combination of MEREC and RS is applied to assess the objective and subjective weighting values of various parameters for AFV assessment. The DNMA approach is utilized to prioritize the different AFVs over various significant parameters. According to the outcomes, the most significant parameters for AFV assessment are social benefits, fueling/charging infrastructure, and financial incentives, respectively. In this context, globally existing AFVs for the sustainable transportation sector are identified, and then prioritized against fifteen different criteria relevant to the environmental, economic, technological, social, and political aspects of sustainability. It is distinguished that electric vehicles (G(2)), hybrid electric vehicles (G(1)), and hydrogen vehicles (G(3)) achieve higher overall performance compared to the other technologies available in India. The assessment outcomes prove that electric vehicles can serve as a valuable alternative for decreasing carbon emissions and negative effects on the environment. This technology contributes to transportation sector development and job creation in less developed areas of the country. Moreover, a comparison with existing studies and a sensitivity investigation are conferred to reveal the robustness and stability of the developed framework.
+AD  - King Saud Univ, Coll Sci, Stat & Operat Res Dept, Riyadh 11451, Saudi ArabiaAD  - Govt Coll Raigaon, Dept Math, Satna 485441, IndiaAD  - Rajiv Gandhi Natl Inst Youth Dev, Dept Math, Sriperumbudur 602105, IndiaAD  - Univ Molise, Dept Econ, Via Sanctis, I-86100 Campobasso, ItalyAD  - Techno Coll Engn Agartala, Dept Math, Agartala 799004, IndiaAD  - SRM Inst Sci & Technol, Fac Engn & Technol, Dept Comp Sci & Engn, NCR Campus, Ghaziabad 201204, IndiaAD  - Czech Univ Life Sci Prague, Fac Econ & Management, Dept Trade & Finance, Kamycka 129, Prague 16500, Czech RepublicAD  - Vilnius Univ, Kaunas Fac, Inst Social Sci & Appl Informat, Muitines 8, LT-444280 Kaunas, LithuaniaC3  - King Saud UniversityC3  - University of MoliseC3  - SRM Institute of Science & Technology Delhi NCR (Ghaziabad)C3  - Czech University of Life Sciences PragueC3  - Vilnius UniversityFU  - King Saud University, Riyadh, Saudi Arabia [RSP-2021/389]
+FX  - This research is funded by "Researchers Supporting Project number (RSP-2021/389), King Saud University, Riyadh, Saudi Arabia".
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2071-1050
+J9  - SUSTAINABILITY-BASEL
+JI  - Sustainability
+DA  - MAY
+PY  - 2022
+VL  - 14
+IS  - 9
+C7  - 5463
+DO  - 10.3390/su14095463
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000799315400001
+N1  - Times Cited in Web of Science Core Collection:  64
+Total Times Cited:  77
+Cited Reference Count:  90
+ER  -
+
+TY  - JOUR
+AU  - Muratori, M
+AU  - Alexander, M
+AU  - Arent, D
+AU  - Bazilian, M
+AU  - Cazzola, P
+AU  - Dede, EM
+AU  - Farrell, J
+AU  - Gearhart, C
+AU  - Greene, D
+AU  - Jenn, A
+AU  - Keyser, M
+AU  - Lipman, T
+AU  - Narumanchi, S
+AU  - Pesaran, A
+AU  - Sioshansi, R
+AU  - Suomalainen, E
+AU  - Tal, G
+AU  - Walkowicz, K
+AU  - Ward, J
+TI  - The rise of electric vehicles-2020 status and future expectations
+T2  - PROGRESS IN ENERGY
+LA  - English
+KW  - electric vehicle (EV)
+KW  - electrification
+KW  - battery
+KW  - decarbonization
+KW  - GREENHOUSE-GAS EMISSIONS
+KW  - RESIDENTIAL DEMAND RESPONSE
+KW  - FAST-CHARGING STATIONS
+KW  - LITHIUM-ION BATTERIES
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - TO-GRID V2G
+KW  - RENEWABLE ENERGY
+KW  - TOTAL-COST
+KW  - CONSUMER PREFERENCES
+KW  - WIDESPREAD ADOPTION
+AB  - Electric vehicles (EVs) are experiencing a rise in popularity over the past few years as the technology has matured and costs have declined, and support for clean transportation has promoted awareness, increased charging opportunities, and facilitated EV adoption. Suitably, a vast body of literature has been produced exploring various facets of EVs and their role in transportation and energy systems. This paper provides a timely and comprehensive review of scientific studies looking at various aspects of EVs, including: (a) an overview of the status of the light-duty-EV market and current projections for future adoption; (b) insights on market opportunities beyond light-duty EVs; (c) a review of cost and performance evolution for batteries, power electronics, and electric machines that are key components of EV success; (d) charging-infrastructure status with a focus on modeling and studies that are used to project charging-infrastructure requirements and the economics of public charging; (e) an overview of the impact of EV charging on power systems at multiple scales, ranging from bulk power systems to distribution networks; (f) insights into life-cycle cost and emissions studies focusing on EVs; and (g) future expectations and synergies between EVs and other emerging trends and technologies. The goal of this paper is to provide readers with a snapshot of the current state of the art and help navigate this vast literature by comparing studies critically and comprehensively and synthesizing general insights. This detailed review paints a positive picture for the future of EVs for on-road transportation, and the authors remain hopeful that remaining technology, regulatory, societal, behavioral, and business-model barriers can be addressed over time to support a transition toward cleaner, more efficient, and affordable transportation solutions for all.
+AD  - Natl Renewable Energy Lab, Golden, CO 80401 USAAD  - Elect Power Res Inst, Palo Alto, CA USAAD  - Colorado Sch Mines, Golden, CO USAAD  - Int Transport Forum Paris, Paris, FranceAD  - Toyota Res Inst North Amer, Ann Arbor, MI USAAD  - Univ Tennessee, Knoxville, TN USAAD  - Univ Calif Davis, Davis, CA USAAD  - Univ Calif Berkeley, Berkeley, CA USAAD  - Ohio State Univ, Columbus, OH USAAD  - Inst VEDECOM, Versailles, FranceAD  - Calstart, Pasadena, CA USAAD  - Carnegie Mellon Univ, Pittsburgh, PA USAC3  - United States Department of Energy (DOE)C3  - National Renewable Energy Laboratory - USAC3  - Electric Power Research Institute (EPRI)C3  - Colorado School of MinesC3  - Toyota Motor CorporationC3  - University of Tennessee SystemC3  - University of Tennessee KnoxvilleC3  - University of California SystemC3  - University of California DavisC3  - University of California SystemC3  - University of California BerkeleyC3  - University System of OhioC3  - Ohio State UniversityC3  - Carnegie Mellon UniversityFU  - U.S. Department of Energy (DOE) [DE-AC36-08GO28308]
+FX  - The authors thank Paul Denholm, Elaine Hale, Trieu Mai, Caitlin, Murphy, Bryan Palmintier, and Dan Steinberg for valuable comments on figure 6, as well as two anonymous reviewers for helpful comments on the paper. This work was co-authored by National Renewable Energy Laboratory (NREL), which is operated by Alliance for Sustainable Energy, LLC, for U.S. Department of Energy (DOE) under Contract No. DE-AC36-08GO28308. No funding was received to support this work. The views expressed in this article do not necessarily represent the views of DOE or the U.S. Government. The findings and conclusions in this publication are those of the authors alone and should not be construed to represent any official U.S. Government determination or policy, or the views of any of the institutions associated with this study's authors.
+PU  - IOP Publishing Ltd
+PI  - BRISTOL
+PA  - TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN  - 2516-1083
+J9  - PROG ENERGY
+JI  - Prog. Energy
+DA  - APR 1
+PY  - 2021
+VL  - 3
+IS  - 2
+C7  - 022002
+DO  - 10.1088/2516-1083/abe0ad
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001078204800001
+N1  - Times Cited in Web of Science Core Collection:  276
+Total Times Cited:  347
+Cited Reference Count:  333
+ER  -
+
+TY  - JOUR
+AU  - Horesh, N
+AU  - Zhou, Y
+AU  - Quinn, J
+TI  - Home charging for all: Techno-economic and life cycle assessment of multi-unit dwelling electric vehicle charging hubs
+T2  - JOURNAL OF CLEANER PRODUCTION
+LA  - English
+KW  - Multi-unit dwelling charging hub
+KW  - Levelized cost of charging
+KW  - Business model
+KW  - Charging infrastructure
+KW  - Electric vehicles
+KW  - Emissions reduction
+KW  - COST
+AB  - Ubiquitous electric vehicle adoption can drastically reduce greenhouse gas emissions (GHG) but will require equitable home charging infrastructure for all residences. Unlike single-family homes, Multi-Unit Dwellings (MUD) currently lack market share and access to nearby charging infrastructure partly due to expensive capital costs for reluctant residential property-owners. This work evaluates the levelized cost of charging (LCOC) for Battery Electric Vehicles (BEVs) at MUD community charging hubs through a techno-economic analysis (TEA) that leverages real-world charging data and costs. Three different MUD charging types are investigated for a baseline and optimistic case: 1.9-kW Level 1 (L1), 6.6-kW Level 2 (L2), and 50-kW Direct Current Fast Charging (DCFC) stations under three different ownership models: resident, utility, and private company. Results demonstrate L1 and L2 chargers to be less expensive than the gasoline equivalent across the United States. Further, utility and private company ownership models, which avoid initial costs for residential property owners, result in a large LCOC premium for L1 and moderate LCOC premium for L2 relative to the resident ownership model. In contrast, DCFC is shown to be expensive for baseline scenarios but economical for optimistic scenarios especially under private company ownership. This work also performs a cradle to grave (C2G) life cycle assessment (LCA) of an average passenger BEV and gasoline conventional vehicle (CV) using yearly (grid mix & vehicle parameters), hourly (grid mix), and state-level (grid mix) resolution. Results show BEVs to have lower GHG emissions (-86% to-10%) than gasoline CVs in the contiguous U.S. Next, the system boundary of the TEA is extended to the total cost of ownership (TCO) of BEVs. The TCO is then coupled with the C2G GHG emissions to calculate the cost of GHG emissions reduction. Ultimately, the cost of GHG emissions reduction from MUD BEVs relative to gasoline CVs is shown to be negative for every scenario except baseline DCFC, meaning MUD BEV charging infrastructure can be a cost-effective endeavor to reduce GHG emissions.
+AD  - Argonne Natl Lab, Energy Syst Div, Syst Assessment Grp, 9700 South Cass Ave, Lemont, IL 60439 USAAD  - Colorado State Univ, Mech Engn, Ft Collins, CO 80523 USAC3  - United States Department of Energy (DOE)C3  - Argonne National LaboratoryC3  - Colorado State University SystemC3  - Colorado State University Fort CollinsFU  - UChicago Argonne, LLC [DE-AC02-06CH11357]; Vehicle Technologies Office, Office of Energy Efficiency and Renewable Energy, United States Department of Energy; National Science Foundation [1941524]; Directorate For Engineering; Div Of Engineering Education and Centers [1941524] Funding Source: National Science Foundation
+FX  - This work was authored by Argonne National Laboratory, a U.S. Department of Energy laboratory managed by UChicago Argonne, LLC under contract DE-AC02-06CH11357. Yan Zhou and Noah Horesh's effort was supported by the Vehicle Technologies Office, Office of Energy Efficiency and Renewable Energy, United States Department of Energy. Noah Horesh and Jason Quinn's effort were also supported by the National Science Foundation [1941524]. Additionally, the authors acknowledge support from David Sandoval and Andrew Burnham of Argonne National Laboratory. The views and opinions of the authors expressed herein do not necessarily state or reflect those of the U.S. Government or any agency thereof. Neither the U.S. Government nor any agency thereof, nor any of their employees, makes any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe privately owned rights
+PU  - ELSEVIER SCI LTD
+PI  - London
+PA  - 125 London Wall, London, ENGLAND
+SN  - 0959-6526
+SN  - 1879-1786
+J9  - J CLEAN PROD
+JI  - J. Clean Prod.
+DA  - JAN 10
+PY  - 2023
+VL  - 383
+C7  - 135551
+DO  - 10.1016/j.jclepro.2022.135551
+C6  - DEC 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000905083700001
+N1  - Times Cited in Web of Science Core Collection:  16
+Total Times Cited:  20
+Cited Reference Count:  41
+ER  -
+
+TY  - JOUR
+AU  - Mariprasath, T
+AU  - Esakkiappan, K
+AU  - Ali, SM
+AU  - Natarajan, M
+AU  - Zneid, BA
+AU  - Rubanenko, O
+TI  - A system-level critical assessment of electric mobility integrating electric vehicle powertrains, advanced battery technologies, grid impacts, artificial intelligence, and sustainability
+T2  - ENERGY EXPLORATION & EXPLOITATION
+LA  - English
+KW  - Artificial intelligence
+KW  - battery degradation
+KW  - electric mobility
+KW  - electric vehicles
+KW  - grid integration
+KW  - life cycle assessment
+KW  - smart charging
+KW  - sustainable transportation
+KW  - LITHIUM-ION BATTERY
+KW  - ENERGY-STORAGE
+KW  - MANAGEMENT
+KW  - AI
+AB  - Electric mobility has emerged as a cornerstone of global decarbonization strategies, with its successful deployment critically dependent on the coordinated integration of vehicle powertrain engineering, advanced battery technologies, charging infrastructure, power grid interaction, and intelligent control systems. This paper presents a comprehensive system-level critical assessment of electric mobility, providing an integrated analytical framework that unifies electric vehicle (EV) powertrains, electrochemical energy storage, grid impacts, artificial intelligence (AI), and sustainability considerations. The study systematically examines EV propulsion architectures, charging technologies, and the operational characteristics of contemporary and emerging battery chemistries, including lithium-ion variants ( Nickel-Manganese-Cobalt, Nickel-Cobalt-Aluminum, and Lithium Iron Phosphate), solid-state batteries, and sodium-ion batteries, with particular emphasis on degradation mechanisms, thermal safety, second-life utilization, and recycling pathways. The impacts of large-scale EV charging on power distribution networks are rigorously analyzed through power quality and voltage stability modeling, highlighting harmonic distortion, feeder loading, and voltage deviation challenges associated with high-power fast-charging infrastructure. Advanced mitigation strategies, including active filtering and AI-based grid impact prediction, are discussed to enhance grid resilience. AI is positioned as a core enabling technology throughout the EV ecosystem, with detailed coverage of data-driven and physics-informed approaches for battery health estimation, remaining useful life prediction, range estimation, smart charging control, traffic-aware routing, and charging queue optimization. Furthermore, emerging quantum-inspired optimization and quantum machine learning paradigms are identified as promising tools for addressing high-dimensional uncertainty in routing, charging scheduling, and battery diagnostics. A life-cycle sustainability perspective is incorporated to evaluate the environmental performance of EVs, emphasizing the influence of electricity generation mix, battery manufacturing emissions, material criticality, and recycling efficiency on overall greenhouse gas reduction potential. By synergizing engineering models, AI-driven intelligence, grid interaction analysis, and life-cycle assessment, this work delivers a unified blueprint for accelerating the transition toward sustainable electric mobility. The presented framework offers clear technical guidance for researchers, policymakers, and industry stakeholders seeking to design resilient, intelligent, and environmentally responsible electric transportation systems.
+AD  - KSRM Coll Engn Autonomous, Dept EEE, Kadapa, Andhra Pradesh, IndiaAD  - Easwari Engn Coll, EEE, Chennai, Tamil Nadu, IndiaAD  - Annamacharaya Univ, Rajampet, Tamil Nadu, IndiaAD  - Karaikal Polytech Coll, Dept EEE, Pondicherry, IndiaAD  - Al Ahliyya Amman Univ, Fac Engn, Hourani Ctr Appl Sci Res, Amman, JordanAD  - Vinnytsia Natl Tech Univ, Dept Power Plants & Syst, UA-21000 Vinnytsia, UkraineC3  - Easwari Engineering CollegeC3  - Al-Ahliyya Amman UniversityC3  - Ministry of Education & Science of UkraineC3  - Vinnytsia National Technical UniversityPU  - SAGE PUBLICATIONS INC
+PI  - THOUSAND OAKS
+PA  - 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN  - 0144-5987
+SN  - 2048-4054
+J9  - ENERG EXPLOR EXPLOIT
+JI  - Energy Explor. Exploit.
+DA  - 2026 MAR 3
+PY  - 2026
+DO  - 10.1177/01445987261420536
+C6  - MAR 2026
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001705356500001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  132
+ER  -
+
+TY  - JOUR
+AU  - Wang, YS
+AU  - Shan, XQ
+AU  - Qiu, R
+TI  - Lifecycle carbon dioxide emissions and cost assessment for battery electric bus systems
+T2  - JOURNAL OF CLEANER PRODUCTION
+LA  - English
+KW  - Battery electric bus system
+KW  - Life cycle assessment
+KW  - Carbon dioxide emissions
+KW  - Lifecycle cost
+KW  - NATURAL-GAS
+KW  - VEHICLES
+KW  - OWNERSHIP
+KW  - DIESEL
+KW  - HYBRID
+KW  - IMPACT
+AB  - Battery electric buses (BEBs) have emerged as a promising solution for reducing transportation emissions; however, prior research has rarely addressed the combined environmental and economic impacts of BEB fleets and their charging facility. This study presents a comprehensive lifecycle assessment (LCA) framework that quantifies carbon emissions and total costs across the production, operation, and recycling phases of BEB systems, integrating heterogeneous bus fleets with diverse charger types and route-specific constraints. In a case study of a public transit network in Nanjing, China, seven scenarios with different BEB system configurations were evaluated. Results show that the capital cost of BEBs accounts for approximately 66% of the total lifecycle cost, with Scenario #1 costing $232.51 million and Scenario #3 reaching $377.07 million-a 62% increase. Sensitivity analyses further indicate that reducing the power grid carbon emission factor from 0.910 to 0.095 kgCO2e/kWh can lower lifecycle emissions by 81.3%, while a 5% increase in BEB energy consumption leads to a 4% rise in emissions, with only a 0.2% impact on overall costs. These numerical results substantiate the effectiveness of our coupled LCA framework by demonstrating that strategic interventions - such as grid decarbonization and improvements in BEB energy efficiency - can significantly mitigate both environmental impacts and lifecycle expenditures. Our findings provide critical quantitative insights for decision-makers, highlighting the potential for substantial reductions in lifecycle impacts as cleaner energy sources and advanced vehicle technologies become increasingly prevalent.
+AD  - Nanjing Univ Informat Sci & Technol, Sch Management Sci & Engn, Nanjing 210044, Peoples R ChinaAD  - Sichuan Univ, Business Sch, Chengdu 610065, Peoples R ChinaC3  - Nanjing University of Information Science & TechnologyC3  - Sichuan UniversityFU  - Meteorological Administration [2025RKXMS02]; Natural Science Foundation of Sichuan Province [2023NSFSC1016]; Funds for Sichuan University to Building a World-class University [2023CX37]
+FX  - This research was supported by the National Natural Science Foundation of China under Grant No. 71901157 and 71801135, the China Meteorological Administration under Grant No. 2025RKXMS02, the Natural Science Foundation of Sichuan Province under Grant No. 2023NSFSC1016, and Funds for Sichuan University to Building a World-class University under Grant No. 2023CX37.
+PU  - ELSEVIER SCI LTD
+PI  - London
+PA  - 125 London Wall, London, ENGLAND
+SN  - 0959-6526
+SN  - 1879-1786
+J9  - J CLEAN PROD
+JI  - J. Clean Prod.
+DA  - APR 10
+PY  - 2025
+VL  - 501
+C7  - 145278
+DO  - 10.1016/j.jclepro.2025.145278
+C6  - MAR 2025
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001453058100001
+N1  - Times Cited in Web of Science Core Collection:  6
+Total Times Cited:  6
+Cited Reference Count:  40
+ER  -
+
+TY  - JOUR
+AU  - Rehman, AU
+AU  - Zia, MF
+AU  - Khalid, H
+AU  - Said, Z
+AU  - Muyeen, SM
+TI  - Wind and grid energy-based onshore beach charging station for electric vehicles: An integration infrastructure with techno economics, sustainable mobility, and environmental protection
+T2  - RESULTS IN ENGINEERING
+LA  - English
+KW  - Onshore charging
+KW  - Dynamic grid interaction
+KW  - Economic feasibility
+KW  - EV charging
+KW  - Economic impact
+KW  - Environmental impact
+KW  - Leisure activities
+KW  - Onshore beach charging stations (OSBCS)
+KW  - sustainable mobility
+KW  - wind energy integration
+KW  - POWER-GENERATION
+KW  - NETWORKS
+AB  - The conventional electric vehicle (EV) charging process is often time-consuming, posing a significant challenge in busy schedules. This constraint restricts individuals from engaging in leisure activities like beach picnics, staycations, etc. A combined wind and grid-powered (CWGP) onshore beach charging station (OSBCS) has been proposed to address this issue. It introduces an innovative approach to EV charging that blends sustainable transportation with leisure activities. A detailed case study was carried out at Jumeirah Beach in the United Arab Emirates (UAE), which included 4 charging stations with a combined total of 134 charging slots. The proposed study 1) investigates the relationship between wind speed and variations in power while exploring the unique wind energy production trends, 2) examines the patterns of dynamic grid interaction while highlighting the substantial role of wind power towards integrated charging station energy requirements, and addresses 3) economic factors, 4) patterns of EV charging, and 5) a life cycle assessment (LCA), which enhances the analysis by providing a comprehensive overview of the feasibility and environmental impact of the proposed charging infrastructure. The results show the high potential of the proposed infrastructure to reduce energy costs by nearly 50% through the incorporation of wind energy and lessen carbon emissions by 64% .(c) 2017 Elsevier Inc. All rights reserved.
+AD  - Univ Azad Jammu & Kashmir, Dept Elect Engn, Muzaffarabad 13100, AJK, PakistanAD  - Amer Univ Dubai, Dept Elect & Comp Engn, Dubai 28282, U Arab EmiratesAD  - Univ Dubai, Coll Engn & Informat Technol, Acad City, Dubai 14143, U Arab EmiratesAD  - Univ Johannesburg, Dept Elect & Elect Engn Sci, ZA-2006 Aukland Pk, South AfricaAD  - United Arab Emirates Univ, Coll Engn, Mech & Aerosp Engn Dept, Al Ain 15551, U Arab EmiratesAD  - Qatar Univ, Dept Elect Engn, Doha 2713, QatarC3  - University of Azad Jammu & KashmirC3  - American University in Dubai (AUD)C3  - University of DubaiC3  - University of JohannesburgC3  - United Arab Emirates UniversityC3  - Qatar UniversityPU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2590-1230
+J9  - RESULTS ENG
+JI  - Results Eng.
+DA  - JUN
+PY  - 2025
+VL  - 26
+C7  - 105113
+DO  - 10.1016/j.rineng.2025.105113
+C6  - MAY 2025
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001492925400001
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+Cited Reference Count:  48
+ER  -
+
+TY  - JOUR
+AU  - Fakour, H
+AU  - Imani, M
+AU  - Lo, SL
+AU  - Yuan, MH
+AU  - Chen, CK
+AU  - Mobasser, S
+AU  - Muangthai, I
+TI  - Evaluation of solar photovoltaic carport canopy with electric vehicle charging potential
+T2  - SCIENTIFIC REPORTS
+LA  - English
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - GHG EMISSIONS
+KW  - PARKING LOTS
+KW  - ENERGY
+KW  - OPTIMIZATION
+KW  - TECHNOLOGIES
+KW  - PERFORMANCE
+KW  - BUILDINGS
+KW  - SYSTEMS
+AB  - While sustainable mobility and decarbonization of transportation sector are among the most comprehensive solutions to the problem of climate change, electric vehicles (EV) are becoming increasingly popular as the future mode of transport. In this study, the integration of a solar carport canopy to a potential EV charging station is analyzed using various operating conditions. A detailed analysis has been provided for the carport located in southern Taiwan, Kaohsiung city, where electricity generation, emission impacts, and financial analysis of the solar EV charging station are discussed. The results of a case study showed a potential of 140 MWh/year of solar energy yield, which could provide solar electricity of more than 3000 vehicles per month with 1-h parking time, generating 94% lower total carbon dioxide emission than the electricity produced from traditional grid methods. Taken into account the impact of carbon tax implementation on driver economics, the results demonstrated the viability of such photovoltaic (PV)-based charging stations, particularly for possible higher carbon tax scenarios in the future. The presented results can be implemented on a larger scale, offering guidelines and tools for constructing solar-powered EV charging station infrastructure.
+AD  - Chang Jung Christian Univ, Int Coll Practice & Educ Environm, Int Program Sustainable Dev, 1 Changda Rd, Tainan 71101, TaiwanAD  - Natl Taiwan Univ, Grad Inst Environm Engn, 1,Sec 4,Roosevelt Rd, Taipei 106, TaiwanAD  - Natl Taiwan Univ, Coll Engn, Water Innovat Low Carbon & Environm Sustainabil Re, Taipei 106, TaiwanAD  - Acad Sinica AS, Res Ctr Environm Changes, Acad Rd 128,Sec 2, Taipei 115, TaiwanAD  - Natl Ilan Univ, Dept Environm Engn, Yilan City 26047, TaiwanAD  - Purdue Univ, Coll Engn, Ctr Environm & Lab Renewable Resources Engn, 610 Purdue Mall, W Lafayette, IN 47907 USAAD  - Solent Univ, Warash Sch Maritime Sci & Engn, Southampton, EnglandC3  - Chang Jung Christian UniversityC3  - National Taiwan UniversityC3  - National Taiwan UniversityC3  - National Ilan UniversityC3  - Purdue University SystemC3  - Purdue UniversityFU  - National Taiwan University [NTUCCP-111L901003, NTU-111L8807]; NTU Research Center for Future Earth from The Featured Areas Research Center Program within Ministry of Education (MOE) in Taiwan; Ministry of Science and Technology of Taiwan (MOST) [MOST 110-2621-M-309-001 -, MOST 110-2621-M-002-011 -, MOST 108-2621-M-309 -001 -MY2, MOST 111-2621-M-002 -012 -]
+FX  - This work was financially supported by National Taiwan University (NTUCCP-111L901003, NTU-111L8807), and NTU Research Center for Future Earth from The Featured Areas Research Center Program within the framework of the Higher Education Sprout Project by the Ministry of Education (MOE) in Taiwan, and the Ministry of Science and Technology of Taiwan (MOST), with grant number of MOST 110-2621-M-309-001 -, MOST 110-2621-M-002-011 -, MOST 108-2621-M-309 -001 -MY2 and MOST 111-2621-M-002 -012 -.
+PU  - NATURE PORTFOLIO
+PI  - BERLIN
+PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN  - 2045-2322
+J9  - SCI REP-UK
+JI  - Sci Rep
+DA  - FEB 6
+PY  - 2023
+VL  - 13
+IS  - 1
+C7  - 2136
+DO  - 10.1038/s41598-023-29223-6
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000989985700042
+N1  - Times Cited in Web of Science Core Collection:  32
+Total Times Cited:  33
+Cited Reference Count:  85
+ER  -
+
