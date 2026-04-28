@@ -1,3 +1,4 @@
+
 # Identification
 
 <mark>**Databases=334**</mark>
@@ -44,3 +45,5 @@ Reports excluded based on journal quality=23
 # Included
 
 <mark>Studies included in review=29
+
+<img width="10715" height="15154" alt="PRISMA_AB_01" src="https://github.com/user-attachments/assets/4a9187d1-2203-4e19-bae6-f495a7c5929f" />
