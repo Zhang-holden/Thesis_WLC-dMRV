@@ -4,6 +4,7 @@
 > - Scopus=117
 > - Web of Science=151
 > - IEEE Xplore=66
+
 Duplicate records removed=146
 
 ---
