@@ -13,7 +13,7 @@ Duplicate records removed=146
 
 <mark>**Records Screened=188**
 
-Records excluded=45
+Records excluded based on title, abstract and key words=45
 > - Reason-1: 核心场景不是 EV 充电（n=16）
 > - Reason-2: 主要研究对象是密码学证明、共识算法优化或 5G 通信协议，没有业务层架构（n=14）
 > - Reason-3: 主要研究对象是动态电价数学模型或车主排队心理研究，没有去中心化系统架构（n=15）
