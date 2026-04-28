@@ -17,13 +17,9 @@ Records Excluded=45
 > - EXC-2: 主要研究对象是密码学证明、共识算法优化或 5G 通信协议，没有业务层架构（n=14）
 > - EXC-3: 主要研究对象是动态电价数学模型或车主排队心理研究，没有去中心化系统架构（n=15）
 
----
-
 <mark>**Reports sought for retrieval=143**
 
 Reports not retrieved=2
-
----
 
 <mark>**Reports assessed for eligibility=141**
 
